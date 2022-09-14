@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OVERXCOMPLETIONS</key>
+	<dict>
+		<key>completions_string</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>one completion</string>
+			<key>other</key>
+			<string>%lu completions</string>
+		</dict>
+	</dict>
+	<key>STREAKXDAYS</key>
+	<dict>
+		<key>days_string</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>lu</string>
+			<key>one</key>
+			<string>1 day</string>
+			<key>other</key>
+			<string>%lu days</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

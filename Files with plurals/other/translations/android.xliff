@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="1" original="/android.xml" source-language="en" target-language="uk" datatype="plaintext">
+    <body>
+      <trans-unit id="1" identifier="d7b5808c3f443eb5a496225468c7e4a5">
+        <source>string 1, have translation</source>
+        <target state="translated">стрічка 1, має переклад</target>
+        <note>Context: str1
+translation block</note>
+      </trans-unit>
+      <trans-unit id="2" identifier="6dc84905d6df841d6f19153bd593e213">
+        <source>string 2, have translation by user</source>
+        <target>string 2, have translation by user</target>
+        <note>Context: str2</note>
+      </trans-unit>
+      <trans-unit id="3" identifier="bbcdf42954dfd002eca26250327c7601">
+        <source>string 3, have translation by machine</source>
+        <target>string 3, have translation by machine</target>
+        <note>Context: str3</note>
+      </trans-unit>
+      <trans-unit id="4" identifier="0dd73c268c46db0f076dfc7f8a0faeeb">
+        <source>string 4, have translation and comment</source>
+        <target state="translated">стрічка 4, має переклад і коментар</target>
+        <note>Context: str4</note>
+      </trans-unit>
+      <trans-unit id="5" identifier="e0f68c3713e281a866ecd9f76feb20ef">
+        <source>string 5, have translation by user and comment</source>
+        <target>string 5, have translation by user and comment</target>
+        <note>Context: str5</note>
+      </trans-unit>
+      <trans-unit id="6" identifier="ffb8d753ffa8be70a4cd0bf8c8cf93a1">
+        <source>string 6, have translation by machine and comment</source>
+        <target>string 6, have translation by machine and comment</target>
+        <note>Context: str6</note>
+      </trans-unit>
+      <trans-unit id="7" identifier="0fa373e18edef87909299e5a37f3c2d4">
+        <source>string 7, have translation and unresolved issue</source>
+        <target state="translated">стрічка 7, має переклад і невирішене питання</target>
+        <note>Context: str7</note>
+      </trans-unit>
+      <trans-unit id="8" identifier="f45af573dd433c2251447d8992f43cc7">
+        <source>string 8, have translation by user and unresolved issue</source>
+        <target>string 8, have translation by user and unresolved issue</target>
+        <note>Context: str8</note>
+      </trans-unit>
+      <trans-unit id="9" identifier="cd5a3f9cb1d4262197cd5d2f834af183">
+        <source>string 9, have translation by machine and unresolved issue</source>
+        <target>string 9, have translation by machine and unresolved issue</target>
+        <note>Context: str9</note>
+      </trans-unit>
+      <trans-unit id="10" identifier="fd29ac5d4c13c2556f169a2924a4dd55">
+        <source>string 10, do not have translation</source>
+        <target>string 10, do not have translation</target>
+        <note>Context: str10</note>
+      </trans-unit>
+      <trans-unit id="11" identifier="6d60408c3b47e87ffa849a07ffa3e7c2">
+        <source>string 11, do not have translation and have comment</source>
+        <target>string 11, do not have translation and have comment</target>
+        <note>Context: str11</note>
+      </trans-unit>
+      <trans-unit id="12" identifier="a995af1e98517bf7193a65be6b8c773a">
+        <source>string 12, do not have translation and have unresolved issue</source>
+        <target>string 12, do not have translation and have unresolved issue</target>
+        <note>Context: str12</note>
+      </trans-unit>
+      <trans-unit id="13" identifier="6988cd1bb6921526ab31ac05f7d934a9">
+        <source>string 13, do not have translation and have resolved issue</source>
+        <target>string 13, do not have translation and have resolved issue</target>
+        <note>Context: str13</note>
+      </trans-unit>
+      <trans-unit id="14" identifier="5d3fb1c687dbca1a53eb448fa7e3e6c4">
+        <source>string 14, have validation</source>
+        <target>string 14, have validation</target>
+        <note>Context: str14
+validation block</note>
+      </trans-unit>
+      <trans-unit id="15" identifier="2676a43d366081cec289418c464fc754">
+        <source>string 15, have validation by user</source>
+        <target state="translated">стрічка 15, має підтвердження користувачем</target>
+        <note>Context: str15</note>
+      </trans-unit>
+      <trans-unit id="16" identifier="b0d27b4fc7053c52fd8c3dcbd28f9820" approved="yes">
+        <source>string 16, have validation and comment</source>
+        <target>стрічка 16, має підтвердження і коментар</target>
+        <note>Context: str16</note>
+      </trans-unit>
+      <trans-unit id="17" identifier="4eeafad167c4bfa62257d53f073c2394">
+        <source>string 17, have validation by user and comment</source>
+        <target state="translated">стрічка 17, має підтвердження користувачем і коментар</target>
+        <note>Context: str17</note>
+      </trans-unit>
+      <trans-unit id="18" identifier="6e7ed5cc4a7892f3b2b0d02260c59e8e">
+        <source>string 18, have validation and unresolved issue</source>
+        <target>string 18, have validation and unresolved issue</target>
+        <note>Context: str18</note>
+      </trans-unit>
+      <trans-unit id="19" identifier="b9581de8e291cfcbc567bd0120e66b41">
+        <source>string 19, have validation by user and unresolved issue</source>
+        <target state="translated">стрічка 19, має підтвердження користувачем і невирішене питання</target>
+        <note>Context: str19</note>
+      </trans-unit>
+      <trans-unit id="20" identifier="0fc8819ca16ed2bbe33b9f136c471c6f">
+        <source>string 20, do not have validation</source>
+        <target state="translated">стрічка 20, не має підтвердження</target>
+        <note>Context: str20</note>
+      </trans-unit>
+      <trans-unit id="21" identifier="ba601fc79ed2167c74b735f85fb07761">
+        <source>string 21, do not have validation and have comment</source>
+        <target state="translated">стрічка 21, не має підтвердження і має коментар</target>
+        <note>Context: str21</note>
+      </trans-unit>
+      <trans-unit id="22" identifier="cf7cc7c89a7eb4964b7c66c7dd5ce3b5">
+        <source>string 22, do not have validation and have unresolved issue</source>
+        <target state="translated">стрічка 22, не має підтвердження і має невирішене питання</target>
+        <note>Context: str22</note>
+      </trans-unit>
+      <trans-unit id="23" identifier="ded2411e698053dedd92589e69fc9a46">
+        <source>string 23, do not have validation and have resolved issue</source>
+        <target state="translated">стрічка 23, не має підтвердження і має вирішене питання</target>
+        <note>Context: str23</note>
+      </trans-unit>
+      <trans-unit id="24" identifier="d0e52cf70256823f353d0ea5b5818ed4" approved="yes">
+        <source>string 24, have translation after approval</source>
+        <target>стрічка 24, має переклад після підтвердження</target>
+        <note>Context: str24
+translation after approval block</note>
+      </trans-unit>
+      <trans-unit id="25" identifier="6972ce458e9ba864981520072b94fba3" approved="yes">
+        <source>string 25, have translation after approval by user</source>
+        <target>стрічка 25, має переклад після підтвердження користувачем</target>
+        <note>Context: str25</note>
+      </trans-unit>
+      <trans-unit id="26" identifier="0e2279a340baad06aa6edb398c43a600" approved="yes">
+        <source>string 26, have translation after approval and comment</source>
+        <target>стрічка 26, має переклад після підтвердження і коментар</target>
+        <note>Context: str26</note>
+      </trans-unit>
+      <trans-unit id="27" identifier="52c50d56dae1f76bb7e3ed080ef5fa51" approved="yes">
+        <source>string 27, have translation after approval by user and comment</source>
+        <target>стрічка 27, має переклад після підтвердження користувачем і коментар</target>
+        <note>Context: str27</note>
+      </trans-unit>
+      <trans-unit id="28" identifier="bbb1e6fbe16a045a772febab35bb55d8" approved="yes">
+        <source>string 28, have translation after approval and unresolved issue</source>
+        <target>стрічка 28, має переклад після підтвердження і невирішене питання</target>
+        <note>Context: str28</note>
+      </trans-unit>
+      <trans-unit id="29" identifier="938fa6a7e6b8190a66673f3e429dca30" approved="yes">
+        <source>string 29, have translation after approval by user and unresolved issue</source>
+        <target>стрічка 29, має переклад після підтвердження користувачем і невирішене питання</target>
+        <note>Context: str29</note>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="30[0]" identifier="c0b6851b22c0d0b45828f4bec6c7728f">
+          <source>string 30, plurals not translated, 1 string</source>
+          <target>string 30, plurals not translated, 1 string</target>
+        </trans-unit>
+        <trans-unit id="30[1]" identifier="c0b6851b22c0d0b45828f4bec6c7728f">
+          <source>string 30, plurals not translated, %d strings</source>
+          <target>string 30, plurals not translated, %d strings</target>
+        </trans-unit>
+        <trans-unit id="30[2]" identifier="c0b6851b22c0d0b45828f4bec6c7728f">
+          <source>string 30, plurals not translated, %d strings</source>
+          <target>string 30, plurals not translated, %d strings</target>
+        </trans-unit>
+        <note>Context: str30_plural_not_translated
+plural translation block [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="31[0]" identifier="ea486d2ffbff4ebe7ff174c9cace17b1">
+          <source>string 31, plurals partial translated, 1 string</source>
+          <target state="translated">стрічка 31, плюрали частково перекладено, 1 стрічка</target>
+        </trans-unit>
+        <trans-unit id="31[1]" identifier="ea486d2ffbff4ebe7ff174c9cace17b1">
+          <source>string 31, plurals partial translated, %d strings</source>
+          <target>string 31, plurals partial translated, %d strings</target>
+        </trans-unit>
+        <trans-unit id="31[2]" identifier="ea486d2ffbff4ebe7ff174c9cace17b1">
+          <source>string 31, plurals partial translated, %d strings</source>
+          <target>string 31, plurals partial translated, %d strings</target>
+        </trans-unit>
+        <note>Context: str31_plural_partial_translated [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="32[0]" identifier="d77e0b10c5ef57ca1f1672bb9c8a686f">
+          <source>string 32, plurals all translated, 1 string</source>
+          <target state="translated">стрічка 32, плюрали все перекладено, 1 стрічка</target>
+        </trans-unit>
+        <trans-unit id="32[1]" identifier="d77e0b10c5ef57ca1f1672bb9c8a686f">
+          <source>string 32, plurals all translated, %d strings</source>
+          <target state="translated">стрічка 32, плюрали все перекладено, %d стрічки</target>
+        </trans-unit>
+        <trans-unit id="32[2]" identifier="d77e0b10c5ef57ca1f1672bb9c8a686f">
+          <source>string 32, plurals all translated, %d strings</source>
+          <target state="translated">стрічка 32, плюрали все перекладено, %d стрічок</target>
+        </trans-unit>
+        <note>Context: str32_plural_all_translated [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="33[0]" identifier="d302dc018a0a4d34862f37006e7c19c9">
+          <source>string 33, plurals partial translated by user, 1 string</source>
+          <target>string 33, plurals partial translated by user, 1 string</target>
+        </trans-unit>
+        <trans-unit id="33[1]" identifier="d302dc018a0a4d34862f37006e7c19c9">
+          <source>string 33, plurals partial translated by user, %d strings</source>
+          <target>string 33, plurals partial translated by user, %d strings</target>
+        </trans-unit>
+        <trans-unit id="33[2]" identifier="d302dc018a0a4d34862f37006e7c19c9">
+          <source>string 33, plurals partial translated by user, %d strings</source>
+          <target>string 33, plurals partial translated by user, %d strings</target>
+        </trans-unit>
+        <note>Context: str33_plural_partial_translated_by_translator [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="34[0]" identifier="efb1662d6f8932f4ec8d5415b36b5174">
+          <source>string 34, plurals all translated by user, 1 string</source>
+          <target>string 34, plurals all translated by user, 1 string</target>
+        </trans-unit>
+        <trans-unit id="34[1]" identifier="efb1662d6f8932f4ec8d5415b36b5174">
+          <source>string 34, plurals all translated by user, %d strings</source>
+          <target>string 34, plurals all translated by user, %d strings</target>
+        </trans-unit>
+        <trans-unit id="34[2]" identifier="efb1662d6f8932f4ec8d5415b36b5174">
+          <source>string 34, plurals all translated by user, %d strings</source>
+          <target>string 34, plurals all translated by user, %d strings</target>
+        </trans-unit>
+        <note>Context: str34_plural_all_translated_by_translator [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="35[0]" identifier="6479d58325304f7be4afac2734a68086">
+          <source>string 35, plurals partial translated by machine, 1 string</source>
+          <target>string 35, plurals partial translated by machine, 1 string</target>
+        </trans-unit>
+        <trans-unit id="35[1]" identifier="6479d58325304f7be4afac2734a68086">
+          <source>string 35, plurals partial translated by machine, %d strings</source>
+          <target>string 35, plurals partial translated by machine, %d strings</target>
+        </trans-unit>
+        <trans-unit id="35[2]" identifier="6479d58325304f7be4afac2734a68086">
+          <source>string 35, plurals partial translated by machine, %d strings</source>
+          <target>string 35, plurals partial translated by machine, %d strings</target>
+        </trans-unit>
+        <note>Context: str35_plural_partial_translated_by_machine [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="36[0]" identifier="96f5f36827db3a5fab2f899cc4e43856">
+          <source>string 36, plurals all translated by machine, 1 string</source>
+          <target>string 36, plurals all translated by machine, 1 string</target>
+        </trans-unit>
+        <trans-unit id="36[1]" identifier="96f5f36827db3a5fab2f899cc4e43856">
+          <source>string 36, plurals all translated by machine, %d strings</source>
+          <target>string 36, plurals all translated by machine, %d strings</target>
+        </trans-unit>
+        <trans-unit id="36[2]" identifier="96f5f36827db3a5fab2f899cc4e43856">
+          <source>string 36, plurals all translated by machine, %d strings</source>
+          <target>string 36, plurals all translated by machine, %d strings</target>
+        </trans-unit>
+        <note>Context: str36_plural_all_translated_by_machine [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="37[0]" identifier="c3058fca4d76ae4e62ddc37d9d5ca132">
+          <source>string 37, plurals partial translated by team, 1 string</source>
+          <target state="translated">стрічка 37, плюрали частково перекладено командно, 1 стрічка</target>
+        </trans-unit>
+        <trans-unit id="37[1]" identifier="c3058fca4d76ae4e62ddc37d9d5ca132">
+          <source>string 37, plurals partial translated by team, %d strings</source>
+          <target>string 37, plurals partial translated by team, %d strings</target>
+        </trans-unit>
+        <trans-unit id="37[2]" identifier="c3058fca4d76ae4e62ddc37d9d5ca132">
+          <source>string 37, plurals partial translated by team, %d strings</source>
+          <target>string 37, plurals partial translated by team, %d strings</target>
+        </trans-unit>
+        <note>Context: str37_plural_partial_translated_by_team [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="38[0]" identifier="622e9eba807d669473b0d325c493913a">
+          <source>string 38, plurals all translated by team, 1 string</source>
+          <target state="translated">стрічка 38, плюрали все перекладено командно, 1 стрічка</target>
+        </trans-unit>
+        <trans-unit id="38[1]" identifier="622e9eba807d669473b0d325c493913a">
+          <source>string 38, plurals all translated by team, %d strings</source>
+          <target>string 38, plurals all translated by team, %d strings</target>
+        </trans-unit>
+        <trans-unit id="38[2]" identifier="622e9eba807d669473b0d325c493913a">
+          <source>string 38, plurals all translated by team, %d strings</source>
+          <target>string 38, plurals all translated by team, %d strings</target>
+        </trans-unit>
+        <note>Context: str38_plural_all_translated_by_team [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="39[0]" identifier="c3ec498562486cc1657b405a5781c0ec" approved="yes">
+          <source>string 39, plurals partial translated and approved, 1 string</source>
+          <target>стрічка 39, плюрали частково перекладено і підтверджено, 1 стрічка</target>
+        </trans-unit>
+        <trans-unit id="39[1]" identifier="c3ec498562486cc1657b405a5781c0ec" approved="yes">
+          <source>string 39, plurals partial translated and approved, %d strings</source>
+          <target>стрічка 39, плюрали частково перекладено і підтверджено, %d стрічки</target>
+        </trans-unit>
+        <trans-unit id="39[2]" identifier="c3ec498562486cc1657b405a5781c0ec">
+          <source>string 39, plurals partial translated and approved, %d strings</source>
+          <target>string 39, plurals partial translated and approved, %d strings</target>
+        </trans-unit>
+        <note>Context: str39_plural_partial_translated_and_approved
+plural validation block [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="40[0]" identifier="d847198c32b6c77970f561286f62e370" approved="yes">
+          <source>string 40, plurals all translated and partial approved, 1 string</source>
+          <target>стрічка 40, плюрали все перекладено і частково підтверджено, 1 стрічка</target>
+        </trans-unit>
+        <trans-unit id="40[1]" identifier="d847198c32b6c77970f561286f62e370">
+          <source>string 40, plurals all translated and partial approved, %d strings</source>
+          <target state="translated">стрічка 40, плюрали все перекладено і частково підтверджено, %d стрічки</target>
+        </trans-unit>
+        <trans-unit id="40[2]" identifier="d847198c32b6c77970f561286f62e370">
+          <source>string 40, plurals all translated and partial approved, %d strings</source>
+          <target state="translated">стрічка 40, плюрали все перекладено і частково підтверджено, %d стрічок</target>
+        </trans-unit>
+        <note>Context: str40_plural_all_translated_and_partial_approved [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="41[0]" identifier="8fd936e06260549684f81a818fbaecbf" approved="yes">
+          <source>string 41, plurals all translated and approved, 1 string</source>
+          <target>стрічка 41, плюрали все перекладено і підтверджено, 1 стрічка</target>
+        </trans-unit>
+        <trans-unit id="41[1]" identifier="8fd936e06260549684f81a818fbaecbf" approved="yes">
+          <source>string 41, plurals all translated and approved, %d strings</source>
+          <target>стрічка 41, плюрали все перекладено і підтверджено, %d стрічки</target>
+        </trans-unit>
+        <trans-unit id="41[2]" identifier="8fd936e06260549684f81a818fbaecbf" approved="yes">
+          <source>string 41, plurals all translated and approved, %d strings</source>
+          <target>стрічка 41, плюрали все перекладено і підтверджено, %d стрічок</target>
+        </trans-unit>
+        <note>Context: str41_plural_all_translated_and_approved [one] [other]</note>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Crowdin.net Sample Android XML resource file
+Copyright (C) 2014
+-->
+
+<resources>
+  <plurals name="ApplicationPreferencesActivity_messages_per_conversation">
+    <item quantity="one">form one</item>
+    <item quantity="few">form few</item>
+    <item quantity="other">form other</item>
+  </plurals>
+  <plurals name="plurals_group_2">
+    <item quantity="one">one message</item>
+    <item quantity="few">few messages</item>
+    <item quantity="other">other messages</item>
+  </plurals>
+  <plurals name="AppProtectionPreferenceFragment_minutes">
+    <item quantity="one">one minute</item>
+    <item quantity="few">few minutes</item>
+    <item quantity="other">other minutes</item>
+  </plurals>
+  <plurals name="ConversationActivity_d_recipients_in_group">
+    <item quantity="one">one member</item>
+    <item quantity="few">few members</item>
+    <item quantity="other">other members</item>
+  </plurals>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="3740" original="/Crowdin Simple plurals.xml" source-language="en" target-language="uk" datatype="plaintext">
+    <body>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="14343743[0]" identifier="b35f4206fd813949ca68d658fea8c4cf">
+          <source>form one</source>
+          <target state="needs-translation">form one</target>
+        </trans-unit>
+        <trans-unit id="14343743[1]" identifier="b35f4206fd813949ca68d658fea8c4cf">
+          <source>form other</source>
+          <target state="translated">form other</target>
+        </trans-unit>
+        <note>Context: ApplicationPreferencesActivity_messages_per_conversation [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="14343744[0]" identifier="c5705fc224f3a3dcb650c670f184f368">
+          <source>one message</source>
+          <target state="translated">2</target>
+        </trans-unit>
+        <trans-unit id="14343744[1]" identifier="c5705fc224f3a3dcb650c670f184f368">
+          <source>other messages</source>
+          <target state="needs-translation">other messages</target>
+        </trans-unit>
+        <note>Context: plurals_group_2 [one] [other]</note>
+      </group>
+    </body>
+  </file>
+</xliff>

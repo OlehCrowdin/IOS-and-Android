@@ -1,0 +1,11 @@
+
+
+msgid "simple string"
+msgstr ""
+
+
+msgid "one apple"
+msgid_plural "other apples"
+msgstr[0] "one"
+msgstr[1] "few"
+msgstr[2] "other"

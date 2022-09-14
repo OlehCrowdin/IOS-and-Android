@@ -1,0 +1,26 @@
+{
+    "key1": "{seconds,plural, =1{{seconds} second key1}other{{seconds} seconds key1}}",
+    "@key1": {
+        "description": "key1 description",
+        "placeholders": {
+            "seconds": {}
+        },
+        "type": "text"
+    },
+    "key2": "{seconds,plural, =1{{seconds} second key2}other{{seconds} seconds key2}}",
+    "@key2": {
+        "type": "text",
+        "placeholders": {
+            "seconds": {}
+        },
+        "description": "key2 description"
+    },
+    "@key3": {
+        "description": "key3 description",
+        "placeholders": {
+            "seconds": {}
+        },
+        "type": "text"
+    },
+    "key3": "{seconds,plural, =1{{seconds} second key3}other{{seconds} seconds key3}}"
+}

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--translation block-->
+    <string name="str1">string 1, have translation</string>
+    <string name="str2">string 2, have translation by user</string>
+    <string name="str3">string 3, have translation by machine</string>
+    <string name="str4">string 4, have translation and comment</string>
+    <string name="str5">string 5, have translation by user and comment</string>
+    <string name="str6">string 6, have translation by machine and comment</string>
+    <string name="str7">string 7, have translation and unresolved issue</string>
+    <string name="str8">string 8, have translation by user and unresolved issue</string>
+    <string name="str9">string 9, have translation by machine and unresolved issue</string>
+    <string name="str10">string 10, do not have translation</string>
+    <string name="str11">string 11, do not have translation and have comment</string>
+    <string name="str12">string 12, do not have translation and have unresolved issue</string>
+    <string name="str13">string 13, do not have translation and have resolved issue</string>
+
+  <!--validation block-->
+    <string name="str14">string 14, have validation</string>
+    <string name="str15">string 15, have validation by user</string>
+    <string name="str16">string 16, have validation and comment</string>
+    <string name="str17">string 17, have validation by user and comment</string>
+    <string name="str18">string 18, have validation and unresolved issue</string>
+    <string name="str19">string 19, have validation by user and unresolved issue</string>
+    <string name="str20">string 20, do not have validation</string>
+    <string name="str21">string 21, do not have validation and have comment</string>
+    <string name="str22">string 22, do not have validation and have unresolved issue</string>
+    <string name="str23">string 23, do not have validation and have resolved issue</string>
+
+  <!--translation after approval block-->
+    <string name="str24">string 24, have translation after approval</string>
+    <string name="str25">string 25, have translation after approval by user</string>
+    <string name="str26">string 26, have translation after approval and comment</string>
+    <string name="str27">string 27, have translation after approval by user and comment</string>
+    <string name="str28">string 28, have translation after approval and unresolved issue</string>
+    <string name="str29">string 29, have translation after approval by user and unresolved issue</string>
+
+  <!--plural translation block-->
+    <plurals name="str30_plural_not_translated">
+        <item quantity="one">string 30, plurals not translated, 1 string</item>
+        <item quantity="other">string 30, plurals not translated, %d strings</item>
+    </plurals>
+    <plurals name="str31_plural_partial_translated">
+        <item quantity="one">string 31, plurals partial translated, 1 string</item>
+        <item quantity="other">string 31, plurals partial translated, %d strings</item>
+    </plurals>
+    <plurals name="str32_plural_all_translated">
+        <item quantity="one">string 32, plurals all translated, 1 string</item>
+        <item quantity="other">string 32, plurals all translated, %d strings</item>
+    </plurals>
+
+    <plurals name="str33_plural_partial_translated_by_translator">
+        <item quantity="one">string 33, plurals partial translated by user, 1 string</item>
+        <item quantity="other">string 33, plurals partial translated by user, %d strings</item>
+    </plurals>
+    <plurals name="str34_plural_all_translated_by_translator">
+        <item quantity="one">string 34, plurals all translated by user, 1 string</item>
+        <item quantity="other">string 34, plurals all translated by user, %d strings</item>
+    </plurals>
+
+    <plurals name="str35_plural_partial_translated_by_machine">
+        <item quantity="one">string 35, plurals partial translated by machine, 1 string</item>
+        <item quantity="other">string 35, plurals partial translated by machine, %d strings</item>
+    </plurals>
+    <plurals name="str36_plural_all_translated_by_machine">
+        <item quantity="one">string 36, plurals all translated by machine, 1 string</item>
+        <item quantity="other">string 36, plurals all translated by machine, %d strings</item>
+    </plurals>
+
+    <plurals name="str37_plural_partial_translated_by_team">
+        <item quantity="one">string 37, plurals partial translated by team, 1 string</item>
+        <item quantity="other">string 37, plurals partial translated by team, %d strings</item>
+    </plurals>
+    <plurals name="str38_plural_all_translated_by_team">
+        <item quantity="one">string 38, plurals all translated by team, 1 string</item>
+        <item quantity="other">string 38, plurals all translated by team, %d strings</item>
+    </plurals>
+
+  <!--plural validation block-->
+    <plurals name="str39_plural_partial_translated_and_approved">
+        <item quantity="one">string 39, plurals partial translated and approved, 1 string</item>
+        <item quantity="other">string 39, plurals partial translated and approved, %d strings</item>
+    </plurals>
+    <plurals name="str40_plural_all_translated_and_partial_approved">
+        <item quantity="one">string 40, plurals all translated and partial approved, 1 string</item>
+        <item quantity="other">string 40, plurals all translated and partial approved, %d strings</item>
+    </plurals>
+    <plurals name="str41_plural_all_translated_and_approved">
+        <item quantity="one">string 41, plurals all translated and approved, 1 string</item>
+        <item quantity="other">string 41, plurals all translated and approved, %d strings</item>
+    </plurals>
+</resources>

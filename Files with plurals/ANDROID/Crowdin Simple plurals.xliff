@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="3900" original="/Crowdin Simple plurals.xml" source-language="en" target-language="uk" datatype="plaintext">
+    <body>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="14346695[0]" identifier="b35f4206fd813949ca68d658fea8c4cf">
+          <source>form one</source>
+          <target state="translated">1</target>
+        </trans-unit>
+        <trans-unit id="14346695[1]" identifier="b35f4206fd813949ca68d658fea8c4cf">
+          <source>form other</source>
+          <target state="translated">3</target>
+        </trans-unit>
+        <trans-unit id="14346695[2]" identifier="b35f4206fd813949ca68d658fea8c4cf">
+          <source>form other</source>
+          <target state="translated">5</target>
+        </trans-unit>
+        <note>Context: ApplicationPreferencesActivity_messages_per_conversation [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="14346696[0]" identifier="c5705fc224f3a3dcb650c670f184f368">
+          <source>one message</source>
+          <target state="translated">1</target>
+        </trans-unit>
+        <trans-unit id="14346696[1]" identifier="c5705fc224f3a3dcb650c670f184f368">
+          <source>other messages</source>
+          <target state="translated">3</target>
+        </trans-unit>
+        <trans-unit id="14346696[2]" identifier="c5705fc224f3a3dcb650c670f184f368">
+          <source>other messages</source>
+          <target state="translated">5</target>
+        </trans-unit>
+        <note>Context: plurals_group_2 [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="14346697[0]" identifier="8b4894aaaaa2375c661d208d0acb1f0d">
+          <source>one minute</source>
+          <target state="translated">1</target>
+        </trans-unit>
+        <trans-unit id="14346697[1]" identifier="8b4894aaaaa2375c661d208d0acb1f0d">
+          <source>other minutes</source>
+          <target state="translated">3</target>
+        </trans-unit>
+        <trans-unit id="14346697[2]" identifier="8b4894aaaaa2375c661d208d0acb1f0d">
+          <source>other minutes</source>
+          <target state="translated">5</target>
+        </trans-unit>
+        <note>Context: AppProtectionPreferenceFragment_minutes [one] [other]</note>
+      </group>
+      <group restype="x-gettext-plurals">
+        <trans-unit id="14346698[0]" identifier="3e70bae9e13e074b4b539e810950b7ea">
+          <source>one member</source>
+          <target state="translated">1</target>
+        </trans-unit>
+        <trans-unit id="14346698[1]" identifier="3e70bae9e13e074b4b539e810950b7ea">
+          <source>other members</source>
+          <target state="translated">3</target>
+        </trans-unit>
+        <trans-unit id="14346698[2]" identifier="3e70bae9e13e074b4b539e810950b7ea">
+          <source>other members</source>
+          <target state="translated">5</target>
+        </trans-unit>
+        <note>Context: ConversationActivity_d_recipients_in_group [one] [other]</note>
+      </group>
+    </body>
+  </file>
+</xliff>
