@@ -1,7 +1,5 @@
 {
-    "Key1": "J'ai {numCats, number} chats.",
-    "Key2": "Presque {pctBlack, number, percent} d'entre eux sont noirs.",
-    "key4": "Le coupon expire à {expires, time, short}",
-    "key5": "{gender, select, male {Lui} female {Elle} other {Ils} } vont répondre sous peu.",
-    "key6": "Panier : {itemCount} {itemCount, plural, one {objet} other {objets} }"
+    "Key1": "La source string",
+    "Key2": "Chaîne source 2",
+    "Key3": "Chaîne source 3"
 }
