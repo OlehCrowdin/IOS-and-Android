@@ -1,6 +1,7 @@
 {
-    "Key1": "Ciąg źródłowy 1",
-    "Key2": "Ciąg źródłowy 2",
-    "Key3": "Ciąg źródłowy 3",
-    "Key4": "Test"
+    "Key1": "Mam {numCats, number} koty.",
+    "Key2": "Prawie {pctBlack, number, percent} z nich są czarne.",
+    "key4": "Kupon wygasa o {expires, time, short}.",
+    "key5": "{gender, select, male {On} female {Ona} other {Ona} } wkrótce odpowie.",
+    "key6": "Koszyk: {itemCount} {itemCount, plural, one {przedmiot} other {przedmioty} }"
 }
