@@ -1,5 +1,7 @@
 {
-    "Key1": "La cadena de origen",
-    "Key2": "Fuente 2 de Chai",
-    "Key3": "Fuente de Chai 3"
+    "Key1": "¡Tengo {numCats, number} gatos.",
+    "Key2": "¡Casi {pctBlack, number, percent} de ellos están en negro.",
+    "key4": "Cupón expira en {expires, time, short}",
+    "key5": "{gender, select, male {¡E} female {¡Ella} other {¡El} } ¡Responderán pronto.",
+    "key6": "Carrito: {itemCount} {itemCount, plural, one {ítem} other {ítems} }"
 }
