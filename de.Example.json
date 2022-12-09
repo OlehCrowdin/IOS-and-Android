@@ -1,6 +1,7 @@
 {
-    "Key1": "Quellzeichenkette 1",
-    "Key2": "Quellzeichenkette 2",
-    "Key3": "Quellzeichenkette 3",
-    "Key4": "Test"
+    "Key1": "Ich habe {numCats, number} Katzen.",
+    "Key2": "Fast {pctBlack, number, percent} von ihnen sind schwarz.",
+    "key4": "Gutschein läuft ab um {expires, time, short}",
+    "key5": "{gender, select, male {Er} female {Sie} other {Sie} } wird in Kürze antworten.",
+    "key6": "Warenkorb: {itemCount} {itemCount, plural, one {Gegenstand} other {Items} }"
 }
