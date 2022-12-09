@@ -1,7 +1,5 @@
 {
-    "Key1": "У мене є {numCats, number} коти.",
-    "Key2": "Майже {pctBlack, number, percent} з них чорні.",
-    "key4": "Купон закінчується {expires, time, short}",
-    "key5": "{gender, select, male {Він} female {Вона} other {Вони} } Невдовзі відповідатиме.",
-    "key6": "Cart: {itemCount} {itemCount, plural, one {item} other {items} }"
+    "Key1": "La source string",
+    "Key2": "Chaîne source 2",
+    "Key3": "Chaîne source 3"
 }
