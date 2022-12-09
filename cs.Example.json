@@ -1,6 +1,7 @@
 {
-    "Key1": "Zdrojový řetězec 1",
-    "Key2": "Zdrojový řetězec 2",
-    "Key3": "Zdrojový řetězec 3",
-    "Key4": "Test"
+    "Key1": "Mám {numCats, number} kočky.",
+    "Key2": "Téměř {pctBlack, number, percent} z nich je černá.",
+    "key4": "Kupón vyprší v {expires, time, short}.",
+    "key5": "{gender, select, male {On} female {Ona} other {Oni} } Brzy zareagují.",
+    "key6": "Kart: {itemCount} {itemCount, plural, one {položka} other {položky} }"
 }
