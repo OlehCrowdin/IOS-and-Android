@@ -1,6 +1,4 @@
 {
-    "Key1": "Source string 1",
-    "Key2": "Source string 2",
-    "Key3": "Source string 3",
-    "Key4": "Test"
+  "NEW_MESSAGES": "{newMessages, plural, one {1 new message} other {{newMessages} new messages}}",
+  "LAST_SEEN": "more than {days, plural, one {1 day} other {{days} days}} ago"
 }
