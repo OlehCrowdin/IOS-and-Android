@@ -1,6 +1,5 @@
 {
-    "Key1": "La source string updated 1",
-    "Key2": "Chaîne source 2",
-    "Key3": "Chaîne source 3",
-    "Key4": "Value\n"
+  "NEW_MESSAGES": "{newMessages, plural, one {1 new message} other {{newMessages} new messages}}",
+  "LAST_SEEN": "more than {days, plural, one {1 day} other {{days} days}} ago",
+  "test": "value\n"
 }
