@@ -2,7 +2,5 @@
     "Key1": "Source string 1",
     "Key2": "Source string 2",
     "Key3": "Source string 3",
-    "[page]": {
-        "crowdin": "La source string"
-    }
+    "Key4": "Source string 4"
 }
