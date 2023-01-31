@@ -1,3 +1,3 @@
 files:
-  - source: '*.json'
-    translation: '%two_letters_code%.Example.%file_extension%'
+  - source: /**/en.*.json
+    translation: /**/%two_letters_code%.Example.%file_extension%
