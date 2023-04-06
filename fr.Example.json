@@ -1,5 +1,8 @@
 {
     "Key1": "La source string",
     "Key2": "Chaîne source 2",
-    "Key3": "Chaîne source 3"
+    "Key3": "Chaîne source 3",
+    "are_you_sure_you_want_to_delete_this_message": "Translation",
+    "compose_message": "Translation",
+    "your_password_reseted_successully": "Translation"
 }
