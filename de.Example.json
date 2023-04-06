@@ -1,6 +1,6 @@
 {
-    "Key1": "Quellzeichenkette 1",
+    "Key1": "Quellzeichenkette 1 changed",
     "Key2": "La source string 2",
-    "Key3": "La source string 3",
+    "Key3": "La source string 3 changed (1st proofreader)",
     "Key4": "Test"
 }
