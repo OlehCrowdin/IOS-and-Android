@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: test-project-0602\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-09-03 10:09+0200\n"
+"PO-Revision-Date: 2023-04-20 10:14\n"
+"Last-Translator: \n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: test-project-0602\n"
+"X-Crowdin-Project-ID: 519762\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /main/PO/Sample.po\n"
+"X-Crowdin-File-ID: 2791\n"
+"Language: es_ES\n"
+
+#: simple string sample
+msgid "Text for translation"
+msgstr "Texto para traducir"
+
+#: sample with translated string
+msgid "Text for translation"
+msgstr "Texto para traducir"
+
+#: long string without new line
+msgid "Very long string for translationeven longer string for translation."
+msgstr "Cadena muy larga para la traducción aún más larga para la traducción."
+
+#: long string with new line
+msgid "Very long string.\n"
+"Even longer string"
+msgstr "Cadena muy larga.\n"
+"Cadena aún más larga"
+
+#: plurals
+#, string with plurals forms
+msgid "Time: %1 second"
+msgid_plural "Time: %1 seconds"
+msgstr[0] "Tiempo: %1 segundo"
+msgstr[1] "Tiempo: %1 segundos"
+
