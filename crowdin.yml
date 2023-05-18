@@ -1,5 +1,3 @@
 files:
   - source: /**/en.Example.json
     translation: /**/%two_letters_code%.Example.%file_extension%
-  - source: /PO/Sample.po
-    translation: /PO/%two_letters_code%.Sample.po
