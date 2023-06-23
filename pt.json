@@ -1,1 +1,6 @@
-{}
+{
+    "Key1": "String de origem 1",
+    "Key2": "String de origem 2",
+    "Key3": "String de origem 3",
+    "{string}": "{string}"
+}
