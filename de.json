@@ -1,5 +1,8 @@
 {
-    "Key1": "Source string 1",
-    "Key2": "Source string 2",
-    "Key3": "Source string 3"
+    "Key1": "Translating",
+    "Key2": "La source string 2",
+    "Key3": "La source string 3",
+    "test1": "La source string 3",
+    "test2": "La source string 2",
+    "test3": "Neu"
 }
