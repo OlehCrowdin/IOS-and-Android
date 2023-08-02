@@ -2,5 +2,6 @@
     "Key1": "La source string",
     "Key2": "Chaîne source 2",
     "Key3": "Chaîne source 3",
-    "Key4": "Test"
+    "Key4": "La Test",
+    "{string}{string}": "Translation {string} Translation"
 }
