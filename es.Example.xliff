@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="874396" maxwidth="20" size-unit="char">
         <source>text</source>
-        <target state="needs-translation">text</target>
+        <target>texto</target>
         <note>Context</note>
       </trans-unit>
       <trans-unit id="874397">
@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="874398">
         <source>text 2</source>
-        <target state="needs-translation">text 2</target>
+        <target>texto 2</target>
         <context context-type="context">Context of the segment 2</context>
       </trans-unit>
       <trans-unit id="874399" translate="no">
