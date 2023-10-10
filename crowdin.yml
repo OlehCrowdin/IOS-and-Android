@@ -2,4 +2,4 @@ files:
   - source: /**/en.*.json
     translation: /**/%two_letters_code%.Example.json
 bundles:
-  - 6
+  - 8
