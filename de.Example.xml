@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Key1">Quellzeichenkette 1</string>
+  <string name="Key2">La source string 2</string>
+  <string name="Key3">La source string 3</string>
+</resources>
