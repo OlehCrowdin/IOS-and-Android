@@ -1,5 +1,3 @@
 files:
-  - source: /**/en.*.json
-    translation: /**/%two_letters_code%.Example.json
-bundles:
-  - 8
+  - source: /**/Example.xml
+    translation: /**/%two_letters_code%.%file_name%.xml
