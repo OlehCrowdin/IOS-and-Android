@@ -1,5 +1,5 @@
 files:
   - source: /src/main/locales/Example 1.json
     translation: /src/main/locales/%two_letters_code%.%file_name%.json
-  - source: /Files with plurals/JSON/Generic FormatJS.json
-    translation: '%original_path%'
+  - source: /**/Generic FormatJS.json
+    translation: /**/%two_letters_code%.%file_name%.json
