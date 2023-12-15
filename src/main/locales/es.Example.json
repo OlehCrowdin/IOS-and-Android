@@ -1,6 +1,9 @@
 {
-    "Key1": "Source 1",
-    "Key2": "New source string 2",
-    "Key3": "Source string 3",
-    "Key4": "Test"
+    "Key1": "Origen 1",
+    "Key2": "Nueva cadena de origen 2",
+    "Key3": "Cadena de origen 3",
+    "Key4": "Prueba",
+    "test": "prueba",
+    "changed": "Café Angelina Paris",
+    "test 1": "Text {string} more text"
 }
