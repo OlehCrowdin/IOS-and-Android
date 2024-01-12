@@ -1,5 +1,5 @@
 files:
-  - source: /**/Example.json
-    translation: /src/main/locales/%two_letters_code%.%file_name%.json
+  - source: /**/*.md
+    translation: /**/%two_letters_code%.COPY.md
 bundles:
   - 6
