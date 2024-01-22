@@ -1,5 +1,3 @@
 files:
-  - source: /src/main/locales/Example 1.json
-    translation: /src/main/locales/%two_letters_code%.Example 1.json
-bundles:
-  - 8
+  - source: /**/*.yml
+    translation: /**/%two_letters_code%.%file_name%.yml
