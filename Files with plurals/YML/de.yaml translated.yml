@@ -1,6 +1,7 @@
 de:
-  not_found: "not found"
+  not_found: "nicht gefunden"
   not_saved:
     one: "1"
     few: "3"
     other: "5"
+  key_1: Quelle 1
