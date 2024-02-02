@@ -2,5 +2,6 @@
     "Key1": "Source string 1",
     "Key2": "Source string 2",
     "Key3": "Cadena de origen 3",
-    "Key4": "Test"
+    "Key4": "Test",
+    "new-string": "New string"
 }
