@@ -3,5 +3,5 @@
     "Key2": "Nouvelle chaîne source 2",
     "Key3": "Chaîne source 3",
     "Key4": "Tester",
-    "Test": "Translation {string} Translation"
+    "Test": "Translation Translation {string} Translation <b> Translation </b>"
 }
