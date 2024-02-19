@@ -1,8 +1,5 @@
 {
     "Key1": "Quellzeichenkette 1",
-    "Key2": "Neuer Quelltext 2",
-    "Key3": "La source string 3",
-    "Key4": "Ein Test",
-    "Key5": "Neue Zeichenkette zum Testen des Quelltextes",
-    "Key6": "Zweiter Versuch, eine Synchronisation für Quelltext zu testen"
+    "Key2": "La source string 2",
+    "Key3": "La source string 3"
 }
