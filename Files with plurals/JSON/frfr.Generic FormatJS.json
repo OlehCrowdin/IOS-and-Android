@@ -1,4 +1,4 @@
 {
-  "NEW_MESSAGES": "{newMessages, plural, one {translation}other {{newMessages} translatable text}}",
+  "NEW_MESSAGES": "{newMessages, plural, one {1 nouveau message} other {{newMessages} nouveaux messages}}",
   "LAST_SEEN": "plus que {days, plural, one {1 jour} other {{days} jours}} il y a !"
 }
