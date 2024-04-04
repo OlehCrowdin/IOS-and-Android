@@ -1,0 +1,7 @@
+{
+    "Key1": "Ho {numCats, number} gatti.",
+    "Key2": "Quasi {pctBlack, number, percent} di loro sono neri.",
+    "key4": "Il coupon scade alle {expires, time, short}.",
+    "key5": "{gender, select, male {} female {Lei} other {Loro} } risponderanno a breve.",
+    "key6": "Carrello: {itemCount} {itemCount, plural, one {item} other {items} }"
+}
