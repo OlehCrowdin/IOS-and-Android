@@ -1,8 +1,4 @@
 {
-    "Key0": "Stringa sorgente 0",
-    "Key6": "Stringa sorgente 2",
-    "Key7": "Stringa sorgente 4",
-    "Key8": "Stringa sorgente 5",
-    "Key9": "Stringa sorgente 3",
-    "hellotest": "Ciao"
+    "hellotest": "Ciao",
+    "Distancetest": "Distanza"
 }
