@@ -1,8 +1,4 @@
 {
-    "Key0": "Chaîne source 0",
-    "Key6": "Chaîne source 2",
-    "Key7": "Chaîne source 4",
-    "Key8": "Chaîne source 5",
-    "Key9": "Chaîne source 3",
-    "hellotest": "Bonjour"
+    "hellotest": "Привіт",
+    "Distancetest": "Шлях"
 }
