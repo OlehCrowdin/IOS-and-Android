@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: test-project-0602\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2024-04-25 07:12\n"
+"PO-Revision-Date: 2024-04-25 09:46\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -19,25 +19,26 @@ msgstr ""
 
 #: simple string sample
 msgid "Text for translation"
-msgstr ""
+msgstr "Texte à traduire"
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr ""
+msgstr "Texte à traduire"
 
 #: long string without new line
 msgid "Very long string for translationeven longer string for translation."
-msgstr ""
+msgstr "Très longue chaîne pour translationeven longue chaîne de la traduction."
 
 #: long string with new line
 msgid "Very long string.\n"
 "Even longer string"
-msgstr ""
+msgstr "Très longue chaîne.\n"
+"Chaîne encore plus longue"
 
 #: plurals
 #, string with plurals forms
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Temps : %1 seconde"
+msgstr[1] "Temps : %1 secondes"
 
