@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: test-project-0602\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2024-04-25 07:12\n"
+"PO-Revision-Date: 2024-04-25 09:46\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -19,24 +19,25 @@ msgstr ""
 
 #: simple string sample
 msgid "Text for translation"
-msgstr ""
+msgstr "文本翻译"
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr ""
+msgstr "文本翻译"
 
 #: long string without new line
 msgid "Very long string for translationeven longer string for translation."
-msgstr ""
+msgstr "非常长的字符串进行翻译更长的字符串进行翻译。"
 
 #: long string with new line
 msgid "Very long string.\n"
 "Even longer string"
-msgstr ""
+msgstr "非常长的字符串。\n"
+"更长的字符串"
 
 #: plurals
 #, string with plurals forms
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
-msgstr[0] ""
+msgstr[0] "时间：%1 秒"
 
