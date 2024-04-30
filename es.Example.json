@@ -1,8 +1,8 @@
 {
     "Key1": "Source string 1",
     "Key2": "Source string 2",
-    "Key3": "Source string 3",
-    "Key4": "Test",
-    "Key5": "New string to test source text delivering",
-    "Key6": "Second attempt to test a sync for source text"
+    "Key3": "Cadena de origen 3",
+    "Key4": "Prueba",
+    "Key5": "Nueva cadena para probar la entrega de texto fuente",
+    "Key6": "Segundo intento de probar una sincronización para el texto fuente"
 }
