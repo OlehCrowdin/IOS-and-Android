@@ -3,5 +3,26 @@
     "Key6": "Cadena de origen 2",
     "Key7": "Cadena de origen 4",
     "Key8": "Cadena de origen 5",
-    "Key9": "Cadena de origen 3"
+    "Key9": "Cadena de origen 3",
+    "free_design_time_05_22": {
+        "time,free_design": "05:22"
+    },
+    "free_design_on_the_way_free_design_on_the_way_address_on_the_way_free_design": {
+        "on_the_way,free_design": "Adresse"
+    },
+    "key_1_on_the_way_free_design": {
+        "on_the_way,free_design": "String 1"
+    },
+    "free_design_info_4": {
+        "on_the_way,free_design": "4"
+    },
+    "free_design_on_the_way_free_design_on_the_way_toyota_rav_4_on_the_way_free_design": {
+        "on_the_way,free_design": "Toyota RAV4"
+    },
+    "free_design_driver_free_design_driver_bryan_driver_free_design": {
+        "driver,free_design": "Bryan"
+    },
+    "free_design_on_the_way_free_design_on_the_way_cancel_on_the_way_free_design": {
+        "on_the_way,free_design": "Cancelar"
+    }
 }
