@@ -3,26 +3,5 @@
     "Key6": "Quellzeichenkette",
     "Key7": "Source String 4",
     "Key8": "Source String 5",
-    "Key9": "Source String 3",
-    "free_design_time_05_22": {
-        "time,free_design": "05:22"
-    },
-    "free_design_on_the_way_free_design_on_the_way_address_on_the_way_free_design": {
-        "on_the_way,free_design": "Adresse"
-    },
-    "key_1_on_the_way_free_design": {
-        "on_the_way,free_design": "translated text"
-    },
-    "free_design_info_4": {
-        "on_the_way,free_design": "4"
-    },
-    "free_design_on_the_way_free_design_on_the_way_toyota_rav_4_on_the_way_free_design": {
-        "on_the_way,free_design": "Toyota RAV4"
-    },
-    "free_design_driver_free_design_driver_bryan_driver_free_design": {
-        "driver,free_design": "Bryan"
-    },
-    "free_design_on_the_way_free_design_on_the_way_cancel_on_the_way_free_design": {
-        "on_the_way,free_design": "Cancel"
-    }
+    "Key9": "Source String 3"
 }
