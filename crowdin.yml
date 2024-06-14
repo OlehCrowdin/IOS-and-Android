@@ -3,5 +3,3 @@ files:
     translation: /src/main/locales/%two_letters_code%.%file_name%.json
   - source: /**/Example.xml
     translation: /%original_path%/%two_letters_code%.%file_name%.xml
-bundles:
-  - 14
