@@ -2,15 +2,15 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file id="1" original="/android.xml" source-language="en" target-language="de" datatype="plaintext">
     <body>
-      <trans-unit id="1" identifier="d7b5808c3f443eb5a496225468c7e4a5" approved="yes">
+      <trans-unit id="1" identifier="d7b5808c3f443eb5a496225468c7e4a5">
         <source>string 1, have translation</source>
-        <target state="final">string 1 haben Übersetzung</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">string 1 haben Übersetzung</target>
         <note>Context: str1
 translation block</note>
       </trans-unit>
-      <trans-unit id="2" identifier="6dc84905d6df841d6f19153bd593e213" approved="yes">
+      <trans-unit id="2" identifier="6dc84905d6df841d6f19153bd593e213">
         <source>string 2, have translation by user</source>
-        <target state="final">string 2 haben Übersetzung nach Benutzer</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">string 2 haben Übersetzung nach Benutzer</target>
         <note>Context: str2</note>
       </trans-unit>
       <trans-unit id="3" identifier="bbcdf42954dfd002eca26250327c7601">
