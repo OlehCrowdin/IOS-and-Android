@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="3740" original="/Crowdin Simple plurals.xml" source-language="en" target-language="es" datatype="plaintext">
+    <body>
+      <group restype="x-gettext-plurals">
+        <note>Context: ApplicationPreferencesActivity_messages_per_conversation [one] [other]</note>
+        <trans-unit id="14343743[0]">
+          <source>form one</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">formar uno</target>
+        </trans-unit>
+        <trans-unit id="14343743[1]">
+          <source>form few</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">forma pocos</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
