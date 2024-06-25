@@ -6,44 +6,44 @@
         <note>Context: ApplicationPreferencesActivity_messages_per_conversation [one] [other]</note>
         <trans-unit id="14346695[0]">
           <source>form one</source>
-          <target state="needs-translation">form one</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">formar uno</target>
         </trans-unit>
         <trans-unit id="14346695[1]">
           <source>form other</source>
-          <target state="needs-translation">form other</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">formar otro</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
         <note>Context: plurals_group_2 [one] [other]</note>
         <trans-unit id="14346696[0]">
           <source>one message</source>
-          <target state="needs-translation">one message</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">un mensaje</target>
         </trans-unit>
         <trans-unit id="14346696[1]">
           <source>other messages</source>
-          <target state="needs-translation">other messages</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">otros mensajes</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
         <note>Context: AppProtectionPreferenceFragment_minutes [one] [other]</note>
         <trans-unit id="14346697[0]">
           <source>one minute</source>
-          <target state="needs-translation">one minute</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">un minuto</target>
         </trans-unit>
         <trans-unit id="14346697[1]">
           <source>other minutes</source>
-          <target state="needs-translation">other minutes</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">otros minutos</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
         <note>Context: ConversationActivity_d_recipients_in_group [one] [other]</note>
         <trans-unit id="14346698[0]">
           <source>one member</source>
-          <target state="needs-translation">one member</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">un miembro</target>
         </trans-unit>
         <trans-unit id="14346698[1]">
           <source>other members</source>
-          <target state="needs-translation">other members</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">otros miembros</target>
         </trans-unit>
       </group>
     </body>
