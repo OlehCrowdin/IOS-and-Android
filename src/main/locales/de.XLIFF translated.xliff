@@ -6,11 +6,11 @@
         <note>Context: ApplicationPreferencesActivity_messages_per_conversation [one] [other]</note>
         <trans-unit id="14343743[0]">
           <source>form one</source>
-          <target state="needs-translation">form one</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">formen eins</target>
         </trans-unit>
         <trans-unit id="14343743[1]">
           <source>form other</source>
-          <target state="needs-translation">form other</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">andere Form</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
