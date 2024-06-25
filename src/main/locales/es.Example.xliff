@@ -4,23 +4,33 @@
     <body>
       <trans-unit id="874396" maxwidth="20" size-unit="char">
         <source>text</source>
-        <target state="needs-translation">text</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texto</target>
         <note>Context</note>
       </trans-unit>
       <trans-unit id="874397">
         <source>text 1</source>
-        <target state="needs-translation">text 1</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texto 1</target>
         <note>Context 1</note>
       </trans-unit>
       <trans-unit id="874398">
         <source>text 2</source>
-        <target state="needs-translation">text 2</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texto 2</target>
         <context context-type="context">Context of the segment 2</context>
       </trans-unit>
       <trans-unit id="874399" translate="no">
         <source>text 3</source>
         <target state="needs-translation">text 3</target>
         <note>Context 3</note>
+      </trans-unit>
+      <trans-unit id="test key">
+        <source>{string}</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">{string}</target>
+        <note>placeholders</note>
+      </trans-unit>
+      <trans-unit id="test key 1">
+        <source>This is a text with {{placeholderText}}.</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Este es un texto con {{placeholderText}}.</target>
+        <note>text example</note>
       </trans-unit>
     </body>
   </file>
