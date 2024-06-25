@@ -4,38 +4,38 @@
     <body>
       <trans-unit id="1" identifier="d7b5808c3f443eb5a496225468c7e4a5">
         <source>string 1, have translation</source>
-        <target state="needs-translation">string 1, have translation</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 1, tiene traducción</target>
         <note>Context: str1
 translation block</note>
       </trans-unit>
       <trans-unit id="2" identifier="6dc84905d6df841d6f19153bd593e213">
         <source>string 2, have translation by user</source>
-        <target state="needs-translation">string 2, have translation by user</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 2, tener traducción por usuario</target>
         <note>Context: str2</note>
       </trans-unit>
       <trans-unit id="3" identifier="bbcdf42954dfd002eca26250327c7601">
         <source>string 3, have translation by machine</source>
-        <target state="needs-translation">string 3, have translation by machine</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 3, tener traducción por máquina</target>
         <note>Context: str3</note>
       </trans-unit>
       <trans-unit id="4" identifier="0dd73c268c46db0f076dfc7f8a0faeeb">
         <source>string 4, have translation and comment</source>
-        <target state="needs-translation">string 4, have translation and comment</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 4, tiene traducción y comentario</target>
         <note>Context: str4</note>
       </trans-unit>
       <trans-unit id="5" identifier="e0f68c3713e281a866ecd9f76feb20ef">
         <source>string 5, have translation by user and comment</source>
-        <target state="needs-translation">string 5, have translation by user and comment</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 5, tener traducción por usuario y comentario</target>
         <note>Context: str5</note>
       </trans-unit>
       <trans-unit id="6" identifier="ffb8d753ffa8be70a4cd0bf8c8cf93a1">
         <source>string 6, have translation by machine and comment</source>
-        <target state="needs-translation">string 6, have translation by machine and comment</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 6, tener traducción por máquina y comentario</target>
         <note>Context: str6</note>
       </trans-unit>
       <trans-unit id="7" identifier="0fa373e18edef87909299e5a37f3c2d4">
         <source>string 7, have translation and unresolved issue</source>
-        <target state="needs-translation">string 7, have translation and unresolved issue</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 7, tener un problema de traducción y sin resolver</target>
         <note>Context: str7</note>
       </trans-unit>
       <trans-unit id="8" identifier="f45af573dd433c2251447d8992f43cc7">
@@ -45,27 +45,27 @@ translation block</note>
       </trans-unit>
       <trans-unit id="9" identifier="cd5a3f9cb1d4262197cd5d2f834af183">
         <source>string 9, have translation by machine and unresolved issue</source>
-        <target state="needs-translation">string 9, have translation by machine and unresolved issue</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 9, tiene traducción por máquina y problema sin resolver</target>
         <note>Context: str9</note>
       </trans-unit>
       <trans-unit id="10" identifier="fd29ac5d4c13c2556f169a2924a4dd55">
         <source>string 10, do not have translation</source>
-        <target state="needs-translation">string 10, do not have translation</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 10, no tiene traducción</target>
         <note>Context: str10</note>
       </trans-unit>
       <trans-unit id="11" identifier="6d60408c3b47e87ffa849a07ffa3e7c2">
         <source>string 11, do not have translation and have comment</source>
-        <target state="needs-translation">string 11, do not have translation and have comment</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 11, no tiene traducción y tiene comentarios</target>
         <note>Context: str11</note>
       </trans-unit>
       <trans-unit id="12" identifier="a995af1e98517bf7193a65be6b8c773a">
         <source>string 12, do not have translation and have unresolved issue</source>
-        <target state="needs-translation">string 12, do not have translation and have unresolved issue</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 12, no tiene traducción y tiene problemas sin resolver</target>
         <note>Context: str12</note>
       </trans-unit>
       <trans-unit id="13" identifier="6988cd1bb6921526ab31ac05f7d934a9">
         <source>string 13, do not have translation and have resolved issue</source>
-        <target state="needs-translation">string 13, do not have translation and have resolved issue</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 13, no tiene traducción y ha resuelto el problema</target>
         <note>Context: str13</note>
       </trans-unit>
       <trans-unit id="14" identifier="5d3fb1c687dbca1a53eb448fa7e3e6c4">
@@ -86,12 +86,12 @@ validation block</note>
       </trans-unit>
       <trans-unit id="17" identifier="4eeafad167c4bfa62257d53f073c2394">
         <source>string 17, have validation by user and comment</source>
-        <target state="needs-translation">string 17, have validation by user and comment</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 17, tiene validación por usuario y comentario</target>
         <note>Context: str17</note>
       </trans-unit>
       <trans-unit id="18" identifier="6e7ed5cc4a7892f3b2b0d02260c59e8e">
         <source>string 18, have validation and unresolved issue</source>
-        <target state="needs-translation">string 18, have validation and unresolved issue</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">la cadena 18, tiene problemas de validación y no resueltos</target>
         <note>Context: str18</note>
       </trans-unit>
       <trans-unit id="19" identifier="b9581de8e291cfcbc567bd0120e66b41">
@@ -101,38 +101,38 @@ validation block</note>
       </trans-unit>
       <trans-unit id="20" identifier="0fc8819ca16ed2bbe33b9f136c471c6f">
         <source>string 20, do not have validation</source>
-        <target state="needs-translation">string 20, do not have validation</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 20, no tiene validación</target>
         <note>Context: str20</note>
       </trans-unit>
       <trans-unit id="21" identifier="ba601fc79ed2167c74b735f85fb07761">
         <source>string 21, do not have validation and have comment</source>
-        <target state="needs-translation">string 21, do not have validation and have comment</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 21, no tiene validación y tiene comentario</target>
         <note>Context: str21</note>
       </trans-unit>
       <trans-unit id="22" identifier="cf7cc7c89a7eb4964b7c66c7dd5ce3b5">
         <source>string 22, do not have validation and have unresolved issue</source>
-        <target state="needs-translation">string 22, do not have validation and have unresolved issue</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 22, no tiene validación y tiene un problema sin resolver</target>
         <note>Context: str22</note>
       </trans-unit>
       <trans-unit id="23" identifier="ded2411e698053dedd92589e69fc9a46">
         <source>string 23, do not have validation and have resolved issue</source>
-        <target state="needs-translation">string 23, do not have validation and have resolved issue</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 23, no tiene validación y ha resuelto el problema</target>
         <note>Context: str23</note>
       </trans-unit>
       <trans-unit id="24" identifier="d0e52cf70256823f353d0ea5b5818ed4">
         <source>string 24, have translation after approval</source>
-        <target state="needs-translation">string 24, have translation after approval</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 24, tener traducción después de la aprobación</target>
         <note>Context: str24
 translation after approval block</note>
       </trans-unit>
       <trans-unit id="25" identifier="6972ce458e9ba864981520072b94fba3">
         <source>string 25, have translation after approval by user</source>
-        <target state="needs-translation">string 25, have translation after approval by user</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 25, tener traducción después de la aprobación por el usuario</target>
         <note>Context: str25</note>
       </trans-unit>
       <trans-unit id="26" identifier="0e2279a340baad06aa6edb398c43a600">
         <source>string 26, have translation after approval and comment</source>
-        <target state="needs-translation">string 26, have translation after approval and comment</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 26, tener traducción después de la aprobación y comentario</target>
         <note>Context: str26</note>
       </trans-unit>
       <trans-unit id="27" identifier="52c50d56dae1f76bb7e3ed080ef5fa51">
@@ -147,7 +147,7 @@ translation after approval block</note>
       </trans-unit>
       <trans-unit id="29" identifier="938fa6a7e6b8190a66673f3e429dca30">
         <source>string 29, have translation after approval by user and unresolved issue</source>
-        <target state="needs-translation">string 29, have translation after approval by user and unresolved issue</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 29, tiene traducción después de la aprobación por el usuario y problema sin resolver</target>
         <note>Context: str29</note>
       </trans-unit>
       <group restype="x-gettext-plurals">
@@ -166,11 +166,11 @@ plural translation block [one] [other]</note>
         <note>Context: str31_plural_partial_translated [one] [other]</note>
         <trans-unit id="31[0]">
           <source>string 31, plurals partial translated, 1 string</source>
-          <target state="needs-translation">string 31, plurals partial translated, 1 string</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 31, plurales traducidos parcialmente, 1 cadena</target>
         </trans-unit>
         <trans-unit id="31[1]">
           <source>string 31, plurals partial translated, %d strings</source>
-          <target state="needs-translation">string 31, plurals partial translated, %d strings</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 31, traducción parcial de plurales, cadenas %d</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
@@ -188,22 +188,22 @@ plural translation block [one] [other]</note>
         <note>Context: str33_plural_partial_translated_by_translator [one] [other]</note>
         <trans-unit id="33[0]">
           <source>string 33, plurals partial translated by user, 1 string</source>
-          <target state="needs-translation">string 33, plurals partial translated by user, 1 string</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 33, plurals parcialmente traducido por el usuario, 1 cadena</target>
         </trans-unit>
         <trans-unit id="33[1]">
           <source>string 33, plurals partial translated by user, %d strings</source>
-          <target state="needs-translation">string 33, plurals partial translated by user, %d strings</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 33, plurales parcialmente traducidos por el usuario, cadenas %d</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
         <note>Context: str34_plural_all_translated_by_translator [one] [other]</note>
         <trans-unit id="34[0]">
           <source>string 34, plurals all translated by user, 1 string</source>
-          <target state="needs-translation">string 34, plurals all translated by user, 1 string</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 34, plurals todos traducidos por usuario, 1 cadena</target>
         </trans-unit>
         <trans-unit id="34[1]">
           <source>string 34, plurals all translated by user, %d strings</source>
-          <target state="needs-translation">string 34, plurals all translated by user, %d strings</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">string 34, plurals todos traducidos por usuario, cadenas %d</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
@@ -221,33 +221,33 @@ plural translation block [one] [other]</note>
         <note>Context: str36_plural_all_translated_by_machine [one] [other]</note>
         <trans-unit id="36[0]">
           <source>string 36, plurals all translated by machine, 1 string</source>
-          <target state="needs-translation">string 36, plurals all translated by machine, 1 string</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 36, plurals todos traducidos por máquina, 1 cadena</target>
         </trans-unit>
         <trans-unit id="36[1]">
           <source>string 36, plurals all translated by machine, %d strings</source>
-          <target state="needs-translation">string 36, plurals all translated by machine, %d strings</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">string 36, plurals todos traducidos por máquina, cadenas %d</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
         <note>Context: str37_plural_partial_translated_by_team [one] [other]</note>
         <trans-unit id="37[0]">
           <source>string 37, plurals partial translated by team, 1 string</source>
-          <target state="needs-translation">string 37, plurals partial translated by team, 1 string</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 37, plurales parciales traducidos por equipo, 1 cadena</target>
         </trans-unit>
         <trans-unit id="37[1]">
           <source>string 37, plurals partial translated by team, %d strings</source>
-          <target state="needs-translation">string 37, plurals partial translated by team, %d strings</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">string 37, plurales parcialmente traducidos por equipo, cadenas %d</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
         <note>Context: str38_plural_all_translated_by_team [one] [other]</note>
         <trans-unit id="38[0]">
           <source>string 38, plurals all translated by team, 1 string</source>
-          <target state="needs-translation">string 38, plurals all translated by team, 1 string</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 38, plurals todos traducidos por equipo, 1 cadena</target>
         </trans-unit>
         <trans-unit id="38[1]">
           <source>string 38, plurals all translated by team, %d strings</source>
-          <target state="needs-translation">string 38, plurals all translated by team, %d strings</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">string 38, plurals todos traducidos por equipo, cadenas %d</target>
         </trans-unit>
       </group>
       <group restype="x-gettext-plurals">
@@ -277,11 +277,11 @@ plural validation block [one] [other]</note>
         <note>Context: str41_plural_all_translated_and_approved [one] [other]</note>
         <trans-unit id="41[0]">
           <source>string 41, plurals all translated and approved, 1 string</source>
-          <target state="needs-translation">string 41, plurals all translated and approved, 1 string</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 41, plurals todos traducidos y aprobados, 1 cadena</target>
         </trans-unit>
         <trans-unit id="41[1]">
           <source>string 41, plurals all translated and approved, %d strings</source>
-          <target state="needs-translation">string 41, plurals all translated and approved, %d strings</target>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">cadena 41, plurals todas las cadenas traducidas y aprobadas, %d</target>
         </trans-unit>
       </group>
     </body>
