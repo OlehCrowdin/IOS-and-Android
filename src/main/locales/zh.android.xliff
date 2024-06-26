@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="1" original="/android.xml" source-language="en" target-language="zh-CN" datatype="plaintext">
+    <body>
+      <trans-unit id="1" identifier="d7b5808c3f443eb5a496225468c7e4a5">
+        <source>string 1, have translation</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串1，有翻译</target>
+        <note>Context: str1
+translation block</note>
+      </trans-unit>
+      <trans-unit id="2" identifier="6dc84905d6df841d6f19153bd593e213">
+        <source>string 2, have translation by user</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串2，用户翻译</target>
+        <note>Context: str2</note>
+      </trans-unit>
+      <trans-unit id="3" identifier="bbcdf42954dfd002eca26250327c7601">
+        <source>string 3, have translation by machine</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串3, 有机器翻译</target>
+        <note>Context: str3</note>
+      </trans-unit>
+      <trans-unit id="4" identifier="0dd73c268c46db0f076dfc7f8a0faeeb">
+        <source>string 4, have translation and comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串4, 有翻译和评论</target>
+        <note>Context: str4</note>
+      </trans-unit>
+      <trans-unit id="5" identifier="e0f68c3713e281a866ecd9f76feb20ef">
+        <source>string 5, have translation by user and comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串5，用户翻译和评论</target>
+        <note>Context: str5</note>
+      </trans-unit>
+      <trans-unit id="6" identifier="ffb8d753ffa8be70a4cd0bf8c8cf93a1">
+        <source>string 6, have translation by machine and comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串6, 有机器翻译和评论</target>
+        <note>Context: str6</note>
+      </trans-unit>
+      <trans-unit id="7" identifier="0fa373e18edef87909299e5a37f3c2d4">
+        <source>string 7, have translation and unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串7，翻译和未解决的问题</target>
+        <note>Context: str7</note>
+      </trans-unit>
+      <trans-unit id="8" identifier="f45af573dd433c2251447d8992f43cc7">
+        <source>string 8, have translation by user and unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串8, 用户的翻译和未解决的问题</target>
+        <note>Context: str8</note>
+      </trans-unit>
+      <trans-unit id="9" identifier="cd5a3f9cb1d4262197cd5d2f834af183">
+        <source>string 9, have translation by machine and unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串9, 有机器翻译和未解决的问题</target>
+        <note>Context: str9</note>
+      </trans-unit>
+      <trans-unit id="10" identifier="fd29ac5d4c13c2556f169a2924a4dd55">
+        <source>string 10, do not have translation</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串 10, 没有翻译</target>
+        <note>Context: str10</note>
+      </trans-unit>
+      <trans-unit id="11" identifier="6d60408c3b47e87ffa849a07ffa3e7c2">
+        <source>string 11, do not have translation and have comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串11, 没有翻译，也没有评论</target>
+        <note>Context: str11</note>
+      </trans-unit>
+      <trans-unit id="12" identifier="a995af1e98517bf7193a65be6b8c773a">
+        <source>string 12, do not have translation and have unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串12, 没有翻译，问题未解决</target>
+        <note>Context: str12</note>
+      </trans-unit>
+      <trans-unit id="13" identifier="6988cd1bb6921526ab31ac05f7d934a9">
+        <source>string 13, do not have translation and have resolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串13, 没有翻译，解决了问题</target>
+        <note>Context: str13</note>
+      </trans-unit>
+      <trans-unit id="14" identifier="5d3fb1c687dbca1a53eb448fa7e3e6c4">
+        <source>string 14, have validation</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串 14，已验证</target>
+        <note>Context: str14
+validation block</note>
+      </trans-unit>
+      <trans-unit id="15" identifier="2676a43d366081cec289418c464fc754">
+        <source>string 15, have validation by user</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串 15，由用户验证</target>
+        <note>Context: str15</note>
+      </trans-unit>
+      <trans-unit id="16" identifier="b0d27b4fc7053c52fd8c3dcbd28f9820">
+        <source>string 16, have validation and comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串16, 有验证和评论</target>
+        <note>Context: str16</note>
+      </trans-unit>
+      <trans-unit id="17" identifier="4eeafad167c4bfa62257d53f073c2394">
+        <source>string 17, have validation by user and comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串17, 用户验证和评论</target>
+        <note>Context: str17</note>
+      </trans-unit>
+      <trans-unit id="18" identifier="6e7ed5cc4a7892f3b2b0d02260c59e8e">
+        <source>string 18, have validation and unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串18, 有验证和未解决的问题</target>
+        <note>Context: str18</note>
+      </trans-unit>
+      <trans-unit id="19" identifier="b9581de8e291cfcbc567bd0120e66b41">
+        <source>string 19, have validation by user and unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串19, 用户验证并未解决问题</target>
+        <note>Context: str19</note>
+      </trans-unit>
+      <trans-unit id="20" identifier="0fc8819ca16ed2bbe33b9f136c471c6f">
+        <source>string 20, do not have validation</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串20, 没有验证</target>
+        <note>Context: str20</note>
+      </trans-unit>
+      <trans-unit id="21" identifier="ba601fc79ed2167c74b735f85fb07761">
+        <source>string 21, do not have validation and have comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串 21, 没有验证，也没有评论</target>
+        <note>Context: str21</note>
+      </trans-unit>
+      <trans-unit id="22" identifier="cf7cc7c89a7eb4964b7c66c7dd5ce3b5">
+        <source>string 22, do not have validation and have unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串22, 没有验证并且有未解决的问题</target>
+        <note>Context: str22</note>
+      </trans-unit>
+      <trans-unit id="23" identifier="ded2411e698053dedd92589e69fc9a46">
+        <source>string 23, do not have validation and have resolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串23, 没有验证并且解决了问题</target>
+        <note>Context: str23</note>
+      </trans-unit>
+      <trans-unit id="24" identifier="d0e52cf70256823f353d0ea5b5818ed4">
+        <source>string 24, have translation after approval</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串24, 审批后有翻译</target>
+        <note>Context: str24
+translation after approval block</note>
+      </trans-unit>
+      <trans-unit id="25" identifier="6972ce458e9ba864981520072b94fba3">
+        <source>string 25, have translation after approval by user</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串25, 用户批准后有翻译</target>
+        <note>Context: str25</note>
+      </trans-unit>
+      <trans-unit id="26" identifier="0e2279a340baad06aa6edb398c43a600">
+        <source>string 26, have translation after approval and comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串26, 批准和评论后有翻译</target>
+        <note>Context: str26</note>
+      </trans-unit>
+      <trans-unit id="27" identifier="52c50d56dae1f76bb7e3ed080ef5fa51">
+        <source>string 27, have translation after approval by user and comment</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串27, 用户批准后有翻译和评论</target>
+        <note>Context: str27</note>
+      </trans-unit>
+      <trans-unit id="28" identifier="bbb1e6fbe16a045a772febab35bb55d8">
+        <source>string 28, have translation after approval and unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串28, 批准后有翻译和未解决的问题</target>
+        <note>Context: str28</note>
+      </trans-unit>
+      <trans-unit id="29" identifier="938fa6a7e6b8190a66673f3e429dca30">
+        <source>string 29, have translation after approval by user and unresolved issue</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串29, 用户批准后有翻译和未解决的问题</target>
+        <note>Context: str29</note>
+      </trans-unit>
+      <group restype="x-gettext-plurals">
+        <note>Context: str30_plural_not_translated
+plural translation block [one] [other]</note>
+        <trans-unit id="30[0]">
+          <source>string 30, plurals not translated, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串30, 数值未翻译, %d 字符串</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str31_plural_partial_translated [one] [other]</note>
+        <trans-unit id="31[0]">
+          <source>string 31, plurals partial translated, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串31，复数被部分翻译， %d 字符串</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str32_plural_all_translated [one] [other]</note>
+        <trans-unit id="32[0]">
+          <source>string 32, plurals all translated, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串32，复数所有已翻译， %d 字符串</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str33_plural_partial_translated_by_translator [one] [other]</note>
+        <trans-unit id="33[0]">
+          <source>string 33, plurals partial translated by user, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串33, 复数由用户, %d 字符串作了部分翻译</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str34_plural_all_translated_by_translator [one] [other]</note>
+        <trans-unit id="34[0]">
+          <source>string 34, plurals all translated by user, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串34，复数所有被用户翻译， %d 字符串</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str35_plural_partial_translated_by_machine [one] [other]</note>
+        <trans-unit id="35[0]">
+          <source>string 35, plurals partial translated by machine, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">string 35, plurals partial translated by mache, %d strings</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str36_plural_all_translated_by_machine [one] [other]</note>
+        <trans-unit id="36[0]">
+          <source>string 36, plurals all translated by machine, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串36, 复数全部被机器翻译， %d 字符串</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str37_plural_partial_translated_by_team [one] [other]</note>
+        <trans-unit id="37[0]">
+          <source>string 37, plurals partial translated by team, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串37, 复数由团队、 %d 字符串部分翻译</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str38_plural_all_translated_by_team [one] [other]</note>
+        <trans-unit id="38[0]">
+          <source>string 38, plurals all translated by team, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串38, 复数由团队, %d 字符串全部翻译</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str39_plural_partial_translated_and_approved
+plural validation block [one] [other]</note>
+        <trans-unit id="39[0]">
+          <source>string 39, plurals partial translated and approved, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串39，复数部分翻译和批准。 %d 字符串</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str40_plural_all_translated_and_partial_approved [one] [other]</note>
+        <trans-unit id="40[0]">
+          <source>string 40, plurals all translated and partial approved, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串40，复数所有已翻译和部分批准的字符串， %d 字符串</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: str41_plural_all_translated_and_approved [one] [other]</note>
+        <trans-unit id="41[0]">
+          <source>string 41, plurals all translated and approved, %d strings</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">字符串41，复数所有已翻译和批准的字符串， %d 字符串</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
