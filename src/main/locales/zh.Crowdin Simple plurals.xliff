@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="3900" original="/Crowdin Simple plurals.xml" source-language="en" target-language="zh-CN" datatype="plaintext">
+    <body>
+      <group restype="x-gettext-plurals">
+        <note>Context: ApplicationPreferencesActivity_messages_per_conversation [one] [other]</note>
+        <trans-unit id="14346695[0]">
+          <source>form other</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">其他形式</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: plurals_group_2 [one] [other]</note>
+        <trans-unit id="14346696[0]">
+          <source>other messages</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">其他消息</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: AppProtectionPreferenceFragment_minutes [one] [other]</note>
+        <trans-unit id="14346697[0]">
+          <source>other minutes</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">其它分钟</target>
+        </trans-unit>
+      </group>
+      <group restype="x-gettext-plurals">
+        <note>Context: ConversationActivity_d_recipients_in_group [one] [other]</note>
+        <trans-unit id="14346698[0]">
+          <source>other members</source>
+          <target state="needs-review-translation" state-qualifier="leveraged-mt">其他成员</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
