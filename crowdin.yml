@@ -1,3 +1,4 @@
 files:
-  - source: /**/*.xliff
-    translation: /src/main/locales/%two_letters_code%.%file_name%.xliff
+  - source: /**/Storyboard.xcstrings
+    translation: /%original_path%/%language%.%file_name%
+    multilingual: 1
