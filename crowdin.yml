@@ -1,9 +1,6 @@
-"files": [
-  {
-    "source": "/**/*.en.json",
-    "translation": "/**/%original_file_name%.%two_letters_code%.json",
-    "translation_replace": {
-      ".en": ""
-    }
-  }
-]
+files:
+  - source: /**/*.xcstrings
+    translation: /**/%original_file_name%/%two_letters_code%.xcstrings
+    multilingual: 1
+    translation_replace:
+      .en: ''
