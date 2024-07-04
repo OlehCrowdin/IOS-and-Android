@@ -19,8 +19,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Use the average recorded time between feeds or provide a fixed interval for the next feed reminder"
+            "state" : "translated",
+            "value" : "Использовать среднее записанное время между лентами новостей или предоставить фиксированный интервал для следующего напоминания о ленте"
           }
         },
         "sk" : {
@@ -49,8 +49,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Set how long after an Express you wish to be notified to Express again."
+            "state" : "translated",
+            "value" : "Укажите, как долго вы хотите получать уведомления в Express снова."
           }
         },
         "sk" : {
@@ -79,8 +79,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
+            "state" : "translated",
+            "value" : "Заголовок"
           }
         },
         "sk" : {
@@ -109,8 +109,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Set the brightness level at which to use Dark Mode even if its not turned on system wide. Auto-Brightness needs to be enabled in your iPhone's settings for this to work."
+            "state" : "translated",
+            "value" : "Установите уровень яркости для использования Темного режима, даже если он не включен в системный режим. Автояркость должна быть включена в настройках вашего iPhone."
           }
         },
         "sk" : {
@@ -139,8 +139,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Logs"
+            "state" : "translated",
+            "value" : "Логи"
           }
         },
         "sk" : {
@@ -169,8 +169,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "What to Track"
+            "state" : "translated",
+            "value" : "Что отслеживать"
           }
         },
         "sk" : {
@@ -187,7 +187,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0"
           }
         },
@@ -199,7 +199,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0"
           }
         },
@@ -217,7 +217,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "MainViewController"
           }
         },
@@ -229,8 +229,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "MainViewController"
+            "state" : "translated",
+            "value" : "Главный контроллер"
           }
         },
         "sk" : {
@@ -259,8 +259,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Ignore Do Not Disturb"
+            "state" : "translated",
+            "value" : "Игнорировать \"Не беспокоить\""
           }
         },
         "sk" : {
@@ -289,8 +289,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter Log Types"
+            "state" : "translated",
+            "value" : "Типы фильтров"
           }
         },
         "sk" : {
@@ -319,8 +319,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Feed Timer"
+            "state" : "translated",
+            "value" : "Таймер ленты"
           }
         },
         "sk" : {
@@ -349,8 +349,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Day starts at (0-12)"
+            "state" : "translated",
+            "value" : "День начинается с (0-12)"
           }
         },
         "sk" : {
@@ -379,8 +379,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sunday 6:30PM"
+            "state" : "translated",
+            "value" : "Воскресенье 18:30PM"
           }
         },
         "sk" : {
@@ -409,8 +409,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Also specify the order in which each should appear in the logs menu"
+            "state" : "translated",
+            "value" : "Также укажите порядок отображения каждого из них в меню журналов"
           }
         },
         "sk" : {
@@ -439,8 +439,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Analysis"
+            "state" : "translated",
+            "value" : "Анализ"
           }
         },
         "sk" : {
@@ -469,8 +469,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Reminder to express"
+            "state" : "translated",
+            "value" : "Напоминание для выражения"
           }
         },
         "sk" : {
@@ -499,8 +499,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "3.5 hrs"
+            "state" : "translated",
+            "value" : "3.5 часов"
           }
         },
         "sk" : {
@@ -529,7 +529,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Generous Tip"
           }
         },
@@ -559,8 +559,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Medications"
+            "state" : "translated",
+            "value" : "Медикаменты"
           }
         },
         "sk" : {
@@ -589,8 +589,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit <ChildNameHere>"
+            "state" : "translated",
+            "value" : "Изменить <ChildNameHere>"
           }
         },
         "sk" : {
@@ -619,8 +619,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Set the time interval for a descreet repeating reminder that the feed timer is still running. Useful if you're trying to feed for a set amount of time."
+            "state" : "translated",
+            "value" : "Установите интервал времени для напоминания о том, что лента еще запущена. Полезно, если вы пытаетесь отправить на заданное количество времени."
           }
         },
         "sk" : {
@@ -649,8 +649,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "If last feed lasted more than 10 mins, suggest opposite breast"
+            "state" : "translated",
+            "value" : "Если последний корм длился более 10 минут, предложите противоположную грудь"
           }
         },
         "sk" : {
@@ -679,8 +679,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add/Edit/Remove Medications. Medications once added here can be recorded on the Logs screen."
+            "state" : "translated",
+            "value" : "Добавить/Изменить/Удалить медикаменты. Медикаменты после их добавления могут быть записаны на экране журнала."
           }
         },
         "sk" : {
@@ -709,8 +709,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show notification when next feed is due"
+            "state" : "translated",
+            "value" : "Показывать уведомление, когда следующая лента новостей"
           }
         },
         "sk" : {
@@ -739,8 +739,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Time Since Last Feed"
+            "state" : "translated",
+            "value" : "Время с последней ленты"
           }
         },
         "sk" : {
@@ -769,8 +769,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "NOTIFICATIONS"
+            "state" : "translated",
+            "value" : "Уведомления"
           }
         },
         "sk" : {
@@ -799,8 +799,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "More..."
+            "state" : "translated",
+            "value" : "Еще..."
           }
         },
         "sk" : {
@@ -829,8 +829,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
+            "state" : "translated",
+            "value" : "Заголовок"
           }
         },
         "sk" : {
@@ -859,8 +859,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop"
+            "state" : "translated",
+            "value" : "Остановить"
           }
         },
         "sk" : {
@@ -889,8 +889,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Feed Timer"
+            "state" : "translated",
+            "value" : "Таймер ленты"
           }
         },
         "sk" : {
@@ -919,8 +919,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Logs"
+            "state" : "translated",
+            "value" : "Логи"
           }
         },
         "sk" : {
@@ -949,8 +949,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "More..."
+            "state" : "translated",
+            "value" : "Еще..."
           }
         },
         "sk" : {
@@ -979,8 +979,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Average"
+            "state" : "translated",
+            "value" : "Среднее"
           }
         },
         "sk" : {
@@ -1009,8 +1009,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Fixed Interval"
+            "state" : "translated",
+            "value" : "Фиксированный интервал"
           }
         },
         "sk" : {
@@ -1039,8 +1039,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : " Like Page"
+            "state" : "translated",
+            "value" : "Страница \"Лайк\""
           }
         },
         "sk" : {
@@ -1069,8 +1069,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Which breast to start feed on"
+            "state" : "translated",
+            "value" : "Какую грудь начать кормить"
           }
         },
         "sk" : {
@@ -1099,8 +1099,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Premium Feature - Trial expires in 3 days"
+            "state" : "translated",
+            "value" : "Премиум функция - пробная версия истекает через 3 дня"
           }
         },
         "sk" : {
@@ -1129,8 +1129,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit Reminder"
+            "state" : "translated",
+            "value" : "Изменить напоминание"
           }
         },
         "sk" : {
@@ -1159,8 +1159,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Use louder sound for 'Reminder' entry alarms"
+            "state" : "translated",
+            "value" : "Использовать громкий звук для будильника 'Напоминание'"
           }
         },
         "sk" : {
@@ -1189,8 +1189,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Send Debug Report"
+            "state" : "translated",
+            "value" : "Отправить Отчет об ошибке"
           }
         },
         "sk" : {
@@ -1219,8 +1219,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Next Feed is Due"
+            "state" : "translated",
+            "value" : "Следующая лента истекает"
           }
         },
         "sk" : {
@@ -1237,7 +1237,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0"
           }
         },
@@ -1249,7 +1249,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0"
           }
         },
@@ -1279,8 +1279,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Disable screen lock when feed timer is running"
+            "state" : "translated",
+            "value" : "Отключить блокировку экрана при запуске таймера ленты"
           }
         },
         "sk" : {
@@ -1309,8 +1309,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Next feed reminder"
+            "state" : "translated",
+            "value" : "Следующее напоминание о ленте"
           }
         },
         "sk" : {
@@ -1339,8 +1339,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Support"
+            "state" : "translated",
+            "value" : "Поддержка"
           }
         },
         "sk" : {
@@ -1369,8 +1369,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Express reminder after"
+            "state" : "translated",
+            "value" : "Экспресс-напоминание после"
           }
         },
         "sk" : {
@@ -1399,8 +1399,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Repeating interval (mins)"
+            "state" : "translated",
+            "value" : "Интервал повторения (минут)"
           }
         },
         "sk" : {
@@ -1417,7 +1417,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Pause"
           }
         },
@@ -1429,8 +1429,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause"
+            "state" : "translated",
+            "value" : "Пауза"
           }
         },
         "sk" : {
@@ -1459,8 +1459,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Measure amounts in"
+            "state" : "translated",
+            "value" : "Измерить суммы в"
           }
         },
         "sk" : {
@@ -1477,7 +1477,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "Pause"
           }
         },
@@ -1489,8 +1489,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Pause"
+            "state" : "translated",
+            "value" : "Пауза"
           }
         },
         "sk" : {
@@ -1519,8 +1519,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Delete Selected"
+            "state" : "translated",
+            "value" : "Удалить выбранные"
           }
         },
         "sk" : {
@@ -1549,8 +1549,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Send only the new feeds logged since you last exported them"
+            "state" : "translated",
+            "value" : "Отправлять только новые ленты новостей с момента последнего экспорта"
           }
         },
         "sk" : {
@@ -1567,7 +1567,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "00:00:00"
           }
         },
@@ -1579,7 +1579,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "00:00:00"
           }
         },
@@ -1609,8 +1609,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Press one of the buttons below to export your baby's logged feeds as a CSV file, which can be opened on your computer"
+            "state" : "translated",
+            "value" : "Нажмите одну из кнопок ниже, чтобы экспортировать ленты из журнала вашего ребенка в CSV-файл, который можно открыть на вашем компьютере"
           }
         },
         "sk" : {
@@ -1639,8 +1639,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Choose what to track"
+            "state" : "translated",
+            "value" : "Выберите, что отслеживать"
           }
         },
         "sk" : {
@@ -1657,7 +1657,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0"
           }
         },
@@ -1669,7 +1669,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0"
           }
         },
@@ -1699,8 +1699,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Use the button below to send a debug report if requested to do so by support."
+            "state" : "translated",
+            "value" : "Используйте кнопку ниже, чтобы отправить отладочный отчет по запросу с помощью поддержки."
           }
         },
         "sk" : {
@@ -1729,8 +1729,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Start hour for the Timeline"
+            "state" : "translated",
+            "value" : "Начать час для Линии времени"
           }
         },
         "sk" : {
@@ -1759,8 +1759,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Like this App? Give our page a like..."
+            "state" : "translated",
+            "value" : "Нравится это приложение? Дайте странице лайк..."
           }
         },
         "sk" : {
@@ -1789,8 +1789,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add, edit or remove children. Set the target time between feeds for each child, pictures, date of birth etc"
+            "state" : "translated",
+            "value" : "Добавление, редактирование или удаление дочерних страниц. Установите целевое время между кормами для каждого ребенка, фотографиями, датой рождения и т. д."
           }
         },
         "sk" : {
@@ -1819,8 +1819,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Item"
+            "state" : "translated",
+            "value" : "Пункт 1"
           }
         },
         "sk" : {
@@ -1849,8 +1849,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Send everything you've ever logged"
+            "state" : "translated",
+            "value" : "Отправить всё, что вы когда-либо входили"
           }
         },
         "sk" : {
@@ -1879,8 +1879,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Automatic Dark Mode"
+            "state" : "translated",
+            "value" : "Автоматический темный режим"
           }
         },
         "sk" : {
@@ -1909,8 +1909,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "This is the tab shown when Baby Feed Timer first starts. The last tab selected will be shown when resuming from the background."
+            "state" : "translated",
+            "value" : "Это вкладка, показанная при первом запуске таймера Baby Feed Timer. Последняя выбранная вкладка будет показана при возобновлении из фона."
           }
         },
         "sk" : {
@@ -1939,8 +1939,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "DISPLAY"
+            "state" : "translated",
+            "value" : "ОТОБРАЖЕНИЕ"
           }
         },
         "sk" : {
@@ -1969,8 +1969,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Label"
+            "state" : "translated",
+            "value" : "Метка"
           }
         },
         "sk" : {
@@ -1999,8 +1999,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Add/Edit/Remove children"
+            "state" : "translated",
+            "value" : "Добавить/изменить/Удалить потомки"
           }
         },
         "sk" : {
@@ -2029,8 +2029,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Measure length in"
+            "state" : "translated",
+            "value" : "Измерить длину в"
           }
         },
         "sk" : {
@@ -2059,8 +2059,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "on the left"
+            "state" : "translated",
+            "value" : "слева"
           }
         },
         "sk" : {
@@ -2089,8 +2089,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Feed timer running reminder"
+            "state" : "translated",
+            "value" : "Напоминание о ленте времени"
           }
         },
         "sk" : {
@@ -2119,8 +2119,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "inches"
+            "state" : "translated",
+            "value" : "дюймы"
           }
         },
         "sk" : {
@@ -2137,7 +2137,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "cm"
           }
         },
@@ -2149,7 +2149,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "cm"
           }
         },
@@ -2179,8 +2179,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "10 mins"
+            "state" : "translated",
+            "value" : "10 минут"
           }
         },
         "sk" : {
@@ -2209,8 +2209,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Repeating interval (mins)"
+            "state" : "translated",
+            "value" : "Интервал повторения (минут)"
           }
         },
         "sk" : {
@@ -2239,8 +2239,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Send Everything"
+            "state" : "translated",
+            "value" : "Отправить все"
           }
         },
         "sk" : {
@@ -2299,8 +2299,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Sleep timer running reminder"
+            "state" : "translated",
+            "value" : "Напоминание таймера сна"
           }
         },
         "sk" : {
@@ -2329,8 +2329,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Edit your child's picture, name, date of birth etc"
+            "state" : "translated",
+            "value" : "Измените фото вашего ребенка, имя, дату рождения и т. д."
           }
         },
         "sk" : {
@@ -2359,8 +2359,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Use louder alarm sound"
+            "state" : "translated",
+            "value" : "Использовать громкий звук будильника"
           }
         },
         "sk" : {
@@ -2389,8 +2389,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "GENERAL"
+            "state" : "translated",
+            "value" : "ОБЩИЙ"
           }
         },
         "sk" : {
@@ -2419,8 +2419,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Join Logs"
+            "state" : "translated",
+            "value" : "Присоединиться к журналу"
           }
         },
         "sk" : {
@@ -2449,8 +2449,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Join Selected"
+            "state" : "translated",
+            "value" : "Присоединиться к выбранному"
           }
         },
         "sk" : {
@@ -2479,8 +2479,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Tap and hold the horizontal bars to change their order or move them into the hidden section."
+            "state" : "translated",
+            "value" : "Нажмите и удерживайте горизонтальные полосы, чтобы изменить их порядок или переместить в скрытую часть."
           }
         },
         "sk" : {
@@ -2509,8 +2509,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Item"
+            "state" : "translated",
+            "value" : "Пункт 1"
           }
         },
         "sk" : {
@@ -2539,8 +2539,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Solid foods count as a feed"
+            "state" : "translated",
+            "value" : "Твердые продукты считаются питанием"
           }
         },
         "sk" : {
@@ -2569,8 +2569,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "UNITS"
+            "state" : "translated",
+            "value" : "УНИТЫ"
           }
         },
         "sk" : {
@@ -2599,8 +2599,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Set the time interval for a descreet repeating reminder that the sleep timer is still running."
+            "state" : "translated",
+            "value" : "Установите интервал времени для напоминания о том, что таймер сна все еще запущен."
           }
         },
         "sk" : {
@@ -2629,8 +2629,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Round display times to nearest"
+            "state" : "translated",
+            "value" : "Время округления до ближайшего"
           }
         },
         "sk" : {
@@ -2659,8 +2659,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Set the hour(0-12) that the Timeline uses as the start of your day. Consider setting this to just before baby wakes for the day to spot patterns easily."
+            "state" : "translated",
+            "value" : "Установите часы (0-12), которые использует Лента времени как начало вашего дня. Подумайте об этом перед тем, как ребенок просыпается, чтобы легко обнаружить узоры."
           }
         },
         "sk" : {
@@ -2689,8 +2689,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Measure weight in"
+            "state" : "translated",
+            "value" : "Измерить вес в"
           }
         },
         "sk" : {
@@ -2719,8 +2719,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Stop"
+            "state" : "translated",
+            "value" : "Остановить"
           }
         },
         "sk" : {
@@ -2749,8 +2749,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Logs are being filtered - tap to remove filter"
+            "state" : "translated",
+            "value" : "Журналы фильтруются - нажмите для удаления фильтра"
           }
         },
         "sk" : {
@@ -2779,8 +2779,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Who Are We"
+            "state" : "translated",
+            "value" : "Кто мы"
           }
         },
         "sk" : {
@@ -2809,8 +2809,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Send Latest"
+            "state" : "translated",
+            "value" : "Отправить последние"
           }
         },
         "sk" : {
@@ -2839,8 +2839,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Timeline"
+            "state" : "translated",
+            "value" : "Хронология"
           }
         },
         "sk" : {
@@ -2869,8 +2869,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Show help messages"
+            "state" : "translated",
+            "value" : "Показать сообщения справки"
           }
         },
         "sk" : {
@@ -2899,8 +2899,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Filter Logs"
+            "state" : "translated",
+            "value" : "Фильтр логов"
           }
         },
         "sk" : {
@@ -2929,8 +2929,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Starting tab"
+            "state" : "translated",
+            "value" : "Начальная вкладка"
           }
         },
         "sk" : {
@@ -2959,8 +2959,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Title"
+            "state" : "translated",
+            "value" : "Заголовок"
           }
         },
         "sk" : {
@@ -2977,7 +2977,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "00:00:00"
           }
         },
@@ -2989,7 +2989,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "00:00:00"
           }
         },
@@ -3019,8 +3019,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Baby's Settings"
+            "state" : "translated",
+            "value" : "Настройки ребёнка"
           }
         },
         "sk" : {
@@ -3037,7 +3037,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0"
           }
         },
@@ -3049,7 +3049,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "0"
           }
         },
@@ -3079,8 +3079,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "Timeline"
+            "state" : "translated",
+            "value" : "Хронология"
           }
         },
         "sk" : {
@@ -3097,7 +3097,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "ml"
           }
         },
@@ -3109,8 +3109,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "ml"
+            "state" : "translated",
+            "value" : "мл"
           }
         },
         "sk" : {
@@ -3139,8 +3139,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "ounces"
+            "state" : "translated",
+            "value" : "откаты"
           }
         },
         "sk" : {
@@ -3169,8 +3169,8 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
-            "value" : "lbs"
+            "state" : "translated",
+            "value" : "фунты"
           }
         },
         "sk" : {
@@ -3187,7 +3187,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "kg"
           }
         },
@@ -3199,7 +3199,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "kg"
           }
         },
@@ -3217,7 +3217,7 @@
       "localizations" : {
         "de" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "03:54:32"
           }
         },
@@ -3229,7 +3229,7 @@
         },
         "ru" : {
           "stringUnit" : {
-            "state" : "new",
+            "state" : "translated",
             "value" : "03:54:32"
           }
         },
