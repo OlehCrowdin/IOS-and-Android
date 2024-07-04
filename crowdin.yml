@@ -3,7 +3,7 @@
     "source": "/**/*.en.json",
     "translation": "/**/%original_file_name%.%two_letters_code%.json",
     "translation_replace": {
-      ".en": ".%two_letters_code%"
+      ".en": ""
     }
   }
 ]
