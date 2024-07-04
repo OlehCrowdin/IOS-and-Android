@@ -1,4 +1,9 @@
-files:
-  - source: /**/Storyboard.xcstrings
-    translation: /%original_path%/%language%.%file_name%
-    multilingual: 1
+"files": [
+  {
+    "source": "/**/*.en.json",
+    "translation": "/**/%original_file_name%.%two_letters_code%.json",
+    "translation_replace": {
+      ".en": ".%two_letters_code"
+    }
+  }
+]
