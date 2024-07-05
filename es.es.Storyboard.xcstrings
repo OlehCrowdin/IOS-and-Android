@@ -1,0 +1,2598 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0a5-zY-4tR.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Use the average recorded time between feeds or provide a fixed interval for the next feed reminder\"; ObjectID = \"0a5-zY-4tR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nutzen Sie die durchschnittliche aufgezeichnete Zeit zwischen den Feeds oder geben Sie ein festes Intervall für die nächste Feed-Erinnerung an"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use the average recorded time between feeds or provide a fixed interval for the next feed reminder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilice el tiempo promedio registrado entre transmisiones o proporcione un intervalo fijo para el siguiente recordatorio de transmisión"
+          }
+        }
+      }
+    },
+    "0wI-Rp-zIz.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Set how long after an Express you wish to be notified to Express again.\"; ObjectID = \"0wI-Rp-zIz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legen Sie fest, wie lange Sie nach einem Express erneut an Express benachrichtigt werden möchten."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set how long after an Express you wish to be notified to Express again."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Establezca cuánto tiempo después de un Express desea que se le notifique nuevamente a Express."
+          }
+        }
+      }
+    },
+    "1if-oi-SYc.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"Title\"; ObjectID = \"1if-oi-SYc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título"
+          }
+        }
+      }
+    },
+    "4Hl-Lq-WX9.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Set the brightness level at which to use Dark Mode even if its not turned on system wide. Auto-Brightness needs to be enabled in your iPhone's settings for this to work.\"; ObjectID = \"4Hl-Lq-WX9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legen Sie die Helligkeitsstufe fest, bei der der Dunkelmodus verwendet werden soll, auch wenn er nicht systemweit aktiviert ist. Damit dies funktioniert, muss die automatische Helligkeitsregelung in den Einstellungen Ihres iPhones aktiviert sein."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set the brightness level at which to use Dark Mode even if its not turned on system wide. Auto-Brightness needs to be enabled in your iPhone's settings for this to work."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Establezca el nivel de brillo en el que usar el Modo oscuro incluso si no está activado en todo el sistema. El brillo automático debe estar habilitado en la configuración de su iPhone para que esto funcione."
+          }
+        }
+      }
+    },
+    "4y7-sa-4MZ.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Logs\"; ObjectID = \"4y7-sa-4MZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logs"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registros"
+          }
+        }
+      }
+    },
+    "6ht-LW-kkJ.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"What to Track\"; ObjectID = \"6ht-LW-kkJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Was zu verfolgen ist"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "What to Track"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Qué rastrear"
+          }
+        }
+      }
+    },
+    "9JO-5A-y01.text" : {
+      "comment" : "Class = \"UITextField\"; text = \"0\"; ObjectID = \"9JO-5A-y01\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        }
+      }
+    },
+    "9xU-m7-KTt.title" : {
+      "comment" : "Class = \"UITabBarController\"; title = \"MainViewController\"; ObjectID = \"9xU-m7-KTt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MainViewController"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "MainViewController"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Controlador de vista principal"
+          }
+        }
+      }
+    },
+    "9zQ-0b-Cry.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Ignore Do Not Disturb\"; ObjectID = \"9zQ-0b-Cry\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "„Bitte nicht stören“ ignorieren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ignore Do Not Disturb"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ignorar no molestar"
+          }
+        }
+      }
+    },
+    "13S-v7-lRu.title" : {
+      "comment" : "Class = \"UITableViewController\"; title = \"Filter Log Types\"; ObjectID = \"13S-v7-lRu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolltypen filtern"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filter Log Types"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtrar tipos de registros"
+          }
+        }
+      }
+    },
+    "078-8F-tF1.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Feed Timer\"; ObjectID = \"078-8F-tF1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Futtertimer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Feed Timer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temporizador"
+          }
+        }
+      }
+    },
+    "93D-dT-2DU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Day starts at (0-12)\"; ObjectID = \"93D-dT-2DU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Tag beginnt um (0-12)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Day starts at (0-12)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El día comienza a las (0-12)"
+          }
+        }
+      }
+    },
+    "A5P-nN-ulA.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Sunday 6:30PM\"; ObjectID = \"A5P-nN-ulA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sonntag 18:30 Uhr"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sunday 6:30PM"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Domingo 6:30 p.m."
+          }
+        }
+      }
+    },
+    "A8i-Bm-aQp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Also specify the order in which each should appear in the logs menu\"; ObjectID = \"A8i-Bm-aQp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Geben Sie außerdem die Reihenfolge an, in der die einzelnen Einträge im Protokollmenü angezeigt werden sollen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Also specify the order in which each should appear in the logs menu"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "También especifique el orden en el que cada uno debe aparecer en el menú de registros."
+          }
+        }
+      }
+    },
+    "add-Tu-VOT.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Analysis\"; ObjectID = \"add-Tu-VOT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Analyse"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Analysis"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Análisis"
+          }
+        }
+      }
+    },
+    "aS0-Xu-hag.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Reminder to express\"; ObjectID = \"aS0-Xu-hag\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerung zum Ausdruck bringen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reminder to express"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recordatorio para expresar"
+          }
+        }
+      }
+    },
+    "aUO-1M-IhJ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"3.5 hrs\"; ObjectID = \"aUO-1M-IhJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3,5 Std"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "3.5 hrs"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3,5 horas"
+          }
+        }
+      }
+    },
+    "b9K-bQ-dSp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Generous Tip\"; ObjectID = \"b9K-bQ-dSp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Großzügiger Tipp"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Generous Tip"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "propina generosa"
+          }
+        }
+      }
+    },
+    "BDM-FO-6Kx.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Medications\"; ObjectID = \"BDM-FO-6Kx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medikamente"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Medications"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medicamentos"
+          }
+        }
+      }
+    },
+    "bDm-LS-r2i.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Edit <ChildNameHere>\"; ObjectID = \"bDm-LS-r2i\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeiten Sie <ChildNameHere>"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit <ChildNameHere>"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar <nombredelniñoaquí>"
+          }
+        }
+      }
+    },
+    "bMH-eh-X0I.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Set the time interval for a descreet repeating reminder that the feed timer is still running. Useful if you're trying to feed for a set amount of time.\"; ObjectID = \"bMH-eh-X0I\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stellen Sie das Zeitintervall für eine dezente, sich wiederholende Erinnerung ein, dass der Futtertimer noch läuft. Nützlich, wenn Sie versuchen, über einen bestimmten Zeitraum zu füttern."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set the time interval for a descreet repeating reminder that the feed timer is still running. Useful if you're trying to feed for a set amount of time."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Establezca el intervalo de tiempo para un recordatorio discreto y repetido de que el temporizador de alimentación aún está funcionando. Útil si intentas alimentarte durante un período de tiempo determinado."
+          }
+        }
+      }
+    },
+    "bQi-si-psH.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"If last feed lasted more than 10 mins, suggest opposite breast\"; ObjectID = \"bQi-si-psH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn die letzte Fütterung länger als 10 Minuten gedauert hat, schlagen Sie die Einnahme an der anderen Brust vor"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "If last feed lasted more than 10 mins, suggest opposite breast"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si la última toma duró más de 10 minutos, sugiera el pecho opuesto."
+          }
+        }
+      }
+    },
+    "C3X-5K-vns.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Add/Edit/Remove Medications. Medications once added here can be recorded on the Logs screen.\"; ObjectID = \"C3X-5K-vns\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medikamente hinzufügen/bearbeiten/entfernen. Einmal hier hinzugefügte Medikamente können auf dem Protokollbildschirm aufgezeichnet werden."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add/Edit/Remove Medications. Medications once added here can be recorded on the Logs screen."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar/Editar/Eliminar medicamentos. Los medicamentos una vez agregados aquí se pueden registrar en la pantalla Registros."
+          }
+        }
+      }
+    },
+    "c9b-jW-dN2.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Show notification when next feed is due\"; ObjectID = \"c9b-jW-dN2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Benachrichtigung anzeigen, wenn der nächste Feed fällig ist"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show notification when next feed is due"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar notificación cuando venza el próximo feed"
+          }
+        }
+      }
+    },
+    "CfB-ax-qll.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Time Since Last Feed\"; ObjectID = \"CfB-ax-qll\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeit seit dem letzten Feed"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Time Since Last Feed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiempo desde la última alimentación"
+          }
+        }
+      }
+    },
+    "csr-fH-qdr.headerTitle" : {
+      "comment" : "Class = \"UITableViewSection\"; headerTitle = \"NOTIFICATIONS\"; ObjectID = \"csr-fH-qdr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MITTEILUNGEN"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NOTIFICATIONS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "NOTIFICACIONES"
+          }
+        }
+      }
+    },
+    "cTm-Ea-rlt.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"More...\"; ObjectID = \"cTm-Ea-rlt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "More..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más..."
+          }
+        }
+      }
+    },
+    "DIi-3s-MYW.title" : {
+      "comment" : "Class = \"UINavigationItem\"; title = \"Title\"; ObjectID = \"DIi-3s-MYW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título"
+          }
+        }
+      }
+    },
+    "DQa-lh-NaH.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Stop\"; ObjectID = \"DQa-lh-NaH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stoppen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener"
+          }
+        }
+      }
+    },
+    "erb-4Z-OfH.segmentTitles[0]" : {
+      "comment" : "Class = \"UISegmentedControl\"; erb-4Z-OfH.segmentTitles[0] = \"Feed Timer\"; ObjectID = \"erb-4Z-OfH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Futtertimer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Feed Timer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temporizador"
+          }
+        }
+      }
+    },
+    "erb-4Z-OfH.segmentTitles[1]" : {
+      "comment" : "Class = \"UISegmentedControl\"; erb-4Z-OfH.segmentTitles[1] = \"Logs\"; ObjectID = \"erb-4Z-OfH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logs"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registros"
+          }
+        }
+      }
+    },
+    "eXV-Rx-mH1.title" : {
+      "comment" : "Class = \"UIViewController\"; title = \"More...\"; ObjectID = \"eXV-Rx-mH1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mehr..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "More..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más..."
+          }
+        }
+      }
+    },
+    "Fr9-jU-fiR.segmentTitles[0]" : {
+      "comment" : "Class = \"UISegmentedControl\"; Fr9-jU-fiR.segmentTitles[0] = \"Average\"; ObjectID = \"Fr9-jU-fiR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Durchschnitt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Average"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Promedio"
+          }
+        }
+      }
+    },
+    "Fr9-jU-fiR.segmentTitles[1]" : {
+      "comment" : "Class = \"UISegmentedControl\"; Fr9-jU-fiR.segmentTitles[1] = \"Fixed Interval\"; ObjectID = \"Fr9-jU-fiR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Festes Intervall"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fixed Interval"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intervalo fijo"
+          }
+        }
+      }
+    },
+    "FSv-jh-sIy.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \" Like Page\"; ObjectID = \"FSv-jh-sIy\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Seite liken"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " Like Page"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " Me gusta la página"
+          }
+        }
+      }
+    },
+    "G13-Yw-zKo.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Which breast to start feed on\"; ObjectID = \"G13-Yw-zKo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An welcher Brust soll ich mit dem Stillen beginnen?"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Which breast to start feed on"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "De qué pecho empezar a amamantar"
+          }
+        }
+      }
+    },
+    "gbD-OW-zVa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Premium Feature - Trial expires in 3 days\"; ObjectID = \"gbD-OW-zVa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Premium-Funktion – Testversion läuft in 3 Tagen ab"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Premium Feature - Trial expires in 3 days"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Función Premium: la prueba vence en 3 días"
+          }
+        }
+      }
+    },
+    "GiN-YS-D2H.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Edit Reminder\"; ObjectID = \"GiN-YS-D2H\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerung bearbeiten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit Reminder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar recordatorio"
+          }
+        }
+      }
+    },
+    "gqW-Od-tYe.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Use louder sound for 'Reminder' entry alarms\"; ObjectID = \"gqW-Od-tYe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwenden Sie einen lauteren Ton für „Erinnerungs“-Eingangsalarme"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use louder sound for 'Reminder' entry alarms"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilice un sonido más alto para las alarmas de entrada 'Recordatorio'"
+          }
+        }
+      }
+    },
+    "GYj-wP-ZQb.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Send Debug Report\"; ObjectID = \"GYj-wP-ZQb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debug-Bericht senden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send Debug Report"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar informe de depuración"
+          }
+        }
+      }
+    },
+    "hAV-LE-iZt.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Next Feed is Due\"; ObjectID = \"hAV-LE-iZt\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der nächste Feed ist fällig"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Next Feed is Due"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La próxima transmisión vence"
+          }
+        }
+      }
+    },
+    "hCy-3I-5yG.text" : {
+      "comment" : "Class = \"UITextField\"; text = \"0\"; ObjectID = \"hCy-3I-5yG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        }
+      }
+    },
+    "hiN-sv-O2a.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Disable screen lock when feed timer is running\"; ObjectID = \"hiN-sv-O2a\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deaktivieren Sie die Bildschirmsperre, wenn der Feed-Timer läuft"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Disable screen lock when feed timer is running"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desactivar el bloqueo de pantalla cuando el temporizador de alimentación esté funcionando"
+          }
+        }
+      }
+    },
+    "hmR-WB-K2m.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Next feed reminder\"; ObjectID = \"hmR-WB-K2m\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nächste Feed-Erinnerung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Next feed reminder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recordatorio del próximo feed"
+          }
+        }
+      }
+    },
+    "Hoi-Hk-mlR.headerTitle" : {
+      "comment" : "Class = \"UITableViewSection\"; headerTitle = \"Support\"; ObjectID = \"Hoi-Hk-mlR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unterstützung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Support"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apoyo"
+          }
+        }
+      }
+    },
+    "I5f-d6-CJJ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Express reminder after\"; ObjectID = \"I5f-d6-CJJ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Express-Erinnerung danach"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Express reminder after"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recordatorio expreso después"
+          }
+        }
+      }
+    },
+    "I6Z-Ly-Cm6.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Repeating interval (mins)\"; ObjectID = \"I6Z-Ly-Cm6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederholungsintervall (Min.)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Repeating interval (mins)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intervalo de repetición (minutos)"
+          }
+        }
+      }
+    },
+    "IE0-YA-XLy.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Pause\"; ObjectID = \"IE0-YA-XLy\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pause"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pause"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pausa"
+          }
+        }
+      }
+    },
+    "imD-95-z9c.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Measure amounts in\"; ObjectID = \"imD-95-z9c\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Beträge messen in"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Measure amounts in"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medir cantidades en"
+          }
+        }
+      }
+    },
+    "IPA-5N-Lgj.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Pause\"; ObjectID = \"IPA-5N-Lgj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pause"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pause"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pausa"
+          }
+        }
+      }
+    },
+    "JgT-ho-X1T.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Delete Selected\"; ObjectID = \"JgT-ho-X1T\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählte löschen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Selected"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar seleccionado"
+          }
+        }
+      }
+    },
+    "Jpa-Pe-hEk.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Send only the new feeds logged since you last exported them\"; ObjectID = \"Jpa-Pe-hEk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senden Sie nur die neuen Feeds, die seit dem letzten Export protokolliert wurden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send only the new feeds logged since you last exported them"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envíe solo los nuevos feeds registrados desde la última vez que los exportó"
+          }
+        }
+      }
+    },
+    "K6F-sA-Ni2.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"00:00:00\"; ObjectID = \"K6F-sA-Ni2\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "00:00:00"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00:00"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "00:00:00"
+          }
+        }
+      }
+    },
+    "Kt1-NK-In4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Press one of the buttons below to export your baby's logged feeds as a CSV file, which can be opened on your computer\"; ObjectID = \"Kt1-NK-In4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klicken Sie auf eine der Schaltflächen unten, um die protokollierten Fütterungen Ihres Babys als CSV-Datei zu exportieren, die auf Ihrem Computer geöffnet werden kann"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Press one of the buttons below to export your baby's logged feeds as a CSV file, which can be opened on your computer"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Presione uno de los botones a continuación para exportar las tomas registradas de su bebé como un archivo CSV, que se puede abrir en su computadora."
+          }
+        }
+      }
+    },
+    "KUF-ME-ars.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Choose what to track\"; ObjectID = \"KUF-ME-ars\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wählen Sie aus, was Sie verfolgen möchten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose what to track"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elige qué rastrear"
+          }
+        }
+      }
+    },
+    "kZY-86-Nfu.text" : {
+      "comment" : "Class = \"UITextField\"; text = \"0\"; ObjectID = \"kZY-86-Nfu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "0"
+          }
+        }
+      }
+    },
+    "L6a-t1-Sgj.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Use the button below to send a debug report if requested to do so by support.\"; ObjectID = \"L6a-t1-Sgj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwenden Sie die Schaltfläche unten, um einen Debug-Bericht zu senden, wenn Sie vom Support dazu aufgefordert werden."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use the button below to send a debug report if requested to do so by support."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilice el botón a continuación para enviar un informe de depuración si así lo solicita el soporte."
+          }
+        }
+      }
+    },
+    "Lbn-E3-kpn.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Start hour for the Timeline\"; ObjectID = \"Lbn-E3-kpn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Startstunde für die Timeline"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Start hour for the Timeline"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hora de inicio de la línea de tiempo"
+          }
+        }
+      }
+    },
+    "lKd-mL-cq3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Like this App? Give our page a like...\"; ObjectID = \"lKd-mL-cq3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gefällt Ihnen diese App? Geben Sie unserer Seite ein „Gefällt mir“..."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Like this App? Give our page a like..."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Te gusta esta aplicación? Dale me gusta a nuestra página..."
+          }
+        }
+      }
+    },
+    "Lqe-Gg-qfg.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Add, edit or remove children. Set the target time between feeds for each child, pictures, date of birth etc\"; ObjectID = \"Lqe-Gg-qfg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kinder hinzufügen, bearbeiten oder entfernen. Legen Sie die Zielzeit zwischen den Fütterungen für jedes Kind, Bilder, Geburtsdatum usw. fest"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add, edit or remove children. Set the target time between feeds for each child, pictures, date of birth etc"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregue, edite o elimine niños. Establezca el tiempo objetivo entre tomas para cada niño, imágenes, fecha de nacimiento, etc."
+          }
+        }
+      }
+    },
+    "lr6-DF-oWq.title" : {
+      "comment" : "Class = \"UIBarButtonItem\"; title = \"Item\"; ObjectID = \"lr6-DF-oWq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artikel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artículo"
+          }
+        }
+      }
+    },
+    "mfM-IS-cEG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Send everything you've ever logged\"; ObjectID = \"mfM-IS-cEG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senden Sie alles, was Sie jemals protokolliert haben"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send everything you've ever logged"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Envía todo lo que hayas iniciado sesión"
+          }
+        }
+      }
+    },
+    "mI7-YC-mEn.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Automatic Dark Mode\"; ObjectID = \"mI7-YC-mEn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatischer Dunkelmodus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Automatic Dark Mode"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo oscuro automático"
+          }
+        }
+      }
+    },
+    "mTE-r9-n3s.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"This is the tab shown when Baby Feed Timer first starts. The last tab selected will be shown when resuming from the background.\"; ObjectID = \"mTE-r9-n3s\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dies ist die Registerkarte, die angezeigt wird, wenn der Babyfütterungstimer zum ersten Mal gestartet wird. Die zuletzt ausgewählte Registerkarte wird angezeigt, wenn Sie im Hintergrund fortfahren."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "This is the tab shown when Baby Feed Timer first starts. The last tab selected will be shown when resuming from the background."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta es la pestaña que se muestra cuando se inicia por primera vez el temporizador de alimentación del bebé. La última pestaña seleccionada se mostrará al reanudar desde el fondo."
+          }
+        }
+      }
+    },
+    "muM-Ki-srY.headerTitle" : {
+      "comment" : "Class = \"UITableViewSection\"; headerTitle = \"DISPLAY\"; ObjectID = \"muM-Ki-srY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ANZEIGE"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DISPLAY"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "MOSTRAR"
+          }
+        }
+      }
+    },
+    "NLc-us-cnc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"NLc-us-cnc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etikett"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Etiqueta"
+          }
+        }
+      }
+    },
+    "OdK-kQ-xKd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Add/Edit/Remove children\"; ObjectID = \"OdK-kQ-xKd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kinder hinzufügen/bearbeiten/entfernen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add/Edit/Remove children"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Agregar/Editar/Eliminar niños"
+          }
+        }
+      }
+    },
+    "oJ5-nF-Hqd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Measure length in\"; ObjectID = \"oJ5-nF-Hqd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Messen Sie die Länge in"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Measure length in"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medir longitud en"
+          }
+        }
+      }
+    },
+    "Ol8-ee-n2p.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"on the left\"; ObjectID = \"Ol8-ee-n2p\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "auf der Linken"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "on the left"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "a la izquierda"
+          }
+        }
+      }
+    },
+    "oqO-eT-izG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Feed timer running reminder\"; ObjectID = \"oqO-eT-izG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerung an den laufenden Futtertimer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Feed timer running reminder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recordatorio de funcionamiento del temporizador de alimentación"
+          }
+        }
+      }
+    },
+    "PVy-qS-LK1.segmentTitles[0]" : {
+      "comment" : "Class = \"UISegmentedControl\"; PVy-qS-LK1.segmentTitles[0] = \"inches\"; ObjectID = \"PVy-qS-LK1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zoll"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "inches"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "pulgadas"
+          }
+        }
+      }
+    },
+    "PVy-qS-LK1.segmentTitles[1]" : {
+      "comment" : "Class = \"UISegmentedControl\"; PVy-qS-LK1.segmentTitles[1] = \"cm\"; ObjectID = \"PVy-qS-LK1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "cm"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "cm"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "cm"
+          }
+        }
+      }
+    },
+    "pYI-cZ-O5G.text" : {
+      "comment" : "Class = \"UITextField\"; text = \"10 mins\"; ObjectID = \"pYI-cZ-O5G\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10 Min."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "10 mins"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "10 minutos"
+          }
+        }
+      }
+    },
+    "Q9C-Jq-Mko.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Repeating interval (mins)\"; ObjectID = \"Q9C-Jq-Mko\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederholungsintervall (Min.)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Repeating interval (mins)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intervalo de repetición (minutos)"
+          }
+        }
+      }
+    },
+    "Qb8-eq-CHP.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Send Everything\"; ObjectID = \"Qb8-eq-CHP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Senden Sie alles"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send Everything"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "enviar todo"
+          }
+        }
+      }
+    },
+    "qhe-Fb-eiP.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"We are a husband and wife team with three young boys. Baby Feed Timer was created after we had our first baby and found ourselves struggling to remember feeds (especially during the night) and had scribbled notes on pieces of paper all over the house.\\n\u2028We have spent the last 8 years building upon and improving Baby Feed Timer and it has become our full time job.\u2028\u2028If you have found Baby Feed Timer to be useful and would like to buy us a coffee or lunch, then you can use the buttons below to send us a tip which will be greatfully received.\"; ObjectID = \"qhe-Fb-eiP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wir sind ein Ehepaar mit drei kleinen Jungen. Der Babyfütterungstimer wurde entwickelt, nachdem wir unser erstes Baby bekommen hatten und Schwierigkeiten hatten, uns an die Fütterungen zu erinnern (besonders nachts), und überall im Haus Notizen auf Zettel gekritzelt hatten.\u2028\nWir haben die letzten 8 Jahre damit verbracht, den Babyfütterungstimer weiterzuentwickeln und zu verbessern, und er ist zu unserem Vollzeitjob geworden. \u2028\u2028Wenn Sie den Babyfütterungstimer als nützlich erachtet haben und uns einen Kaffee oder ein Mittagessen spendieren möchten, können Sie uns über die Schaltflächen unten einen Tipp senden, der gerne angenommen wird."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "We are a husband and wife team with three young boys. Baby Feed Timer was created after we had our first baby and found ourselves struggling to remember feeds (especially during the night) and had scribbled notes on pieces of paper all over the house.\n\u2028We have spent the last 8 years building upon and improving Baby Feed Timer and it has become our full time job.\u2028\u2028If you have found Baby Feed Timer to be useful and would like to buy us a coffee or lunch, then you can use the buttons below to send us a tip which will be greatfully received."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Somos un equipo formado por marido y mujer con tres hijos pequeños. Baby Feed Timer se creó después de que tuvimos nuestro primer bebé y nos encontramos luchando por recordar las tomas (especialmente durante la noche) y habíamos garabateado notas en trozos de papel por toda la casa.\nHemos pasado los últimos 8 años desarrollando y mejorando Baby Feed Timer y se ha convertido en nuestro trabajo de tiempo completo. Si el Temporizador de alimentación para bebés le ha resultado útil y le gustaría invitarnos a un café o un almuerzo, puede utilizar los botones a continuación para enviarnos un consejo que será bien recibido."
+          }
+        }
+      }
+    },
+    "QKv-XG-kLw.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Sleep timer running reminder\"; ObjectID = \"QKv-XG-kLw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erinnerung an den laufenden Sleep-Timer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Sleep timer running reminder"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recordatorio de funcionamiento del temporizador de apagado"
+          }
+        }
+      }
+    },
+    "QqG-Zz-dJE.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Edit your child's picture, name, date of birth etc\"; ObjectID = \"QqG-Zz-dJE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bearbeiten Sie das Bild, den Namen, das Geburtsdatum usw. Ihres Kindes"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit your child's picture, name, date of birth etc"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Edite la imagen, el nombre, la fecha de nacimiento, etc. de su hijo"
+          }
+        }
+      }
+    },
+    "quQ-fn-Hur.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Use louder alarm sound\"; ObjectID = \"quQ-fn-Hur\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verwenden Sie einen lauteren Alarmton"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Use louder alarm sound"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilice un sonido de alarma más fuerte"
+          }
+        }
+      }
+    },
+    "Rea-XI-W5j.headerTitle" : {
+      "comment" : "Class = \"UITableViewSection\"; headerTitle = \"GENERAL\"; ObjectID = \"Rea-XI-W5j\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ALLGEMEIN"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "GENERAL"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "GENERAL"
+          }
+        }
+      }
+    },
+    "REP-0r-UJw.title" : {
+      "comment" : "Class = \"UIBarButtonItem\"; title = \"Join Logs\"; ObjectID = \"REP-0r-UJw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Treten Sie Protokollen bei"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Join Logs"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unirse a registros"
+          }
+        }
+      }
+    },
+    "Rga-15-SEf.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Join Selected\"; ObjectID = \"Rga-15-SEf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ausgewählten beitreten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Join Selected"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Únase a los seleccionados"
+          }
+        }
+      }
+    },
+    "S7H-f3-ukD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Tap and hold the horizontal bars to change their order or move them into the hidden section.\"; ObjectID = \"S7H-f3-ukD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tippen und halten Sie die horizontalen Balken, um ihre Reihenfolge zu ändern oder sie in den ausgeblendeten Bereich zu verschieben."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tap and hold the horizontal bars to change their order or move them into the hidden section."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantenga presionadas las barras horizontales para cambiar su orden o moverlas a la sección oculta."
+          }
+        }
+      }
+    },
+    "SE7-cT-IaQ.title" : {
+      "comment" : "Class = \"UIBarButtonItem\"; title = \"Item\"; ObjectID = \"SE7-cT-IaQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artikel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Item"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artículo"
+          }
+        }
+      }
+    },
+    "Sj8-zb-sbp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Solid foods count as a feed\"; ObjectID = \"Sj8-zb-sbp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feste Lebensmittel gelten als Futtermittel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Solid foods count as a feed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los alimentos sólidos cuentan como alimento."
+          }
+        }
+      }
+    },
+    "sKR-O5-LKd.headerTitle" : {
+      "comment" : "Class = \"UITableViewSection\"; headerTitle = \"UNITS\"; ObjectID = \"sKR-O5-LKd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "EINHEITEN"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "UNITS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UNIDADES"
+          }
+        }
+      }
+    },
+    "SuT-8J-XAI.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Set the time interval for a descreet repeating reminder that the sleep timer is still running.\"; ObjectID = \"SuT-8J-XAI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stellen Sie das Zeitintervall für eine dezente, sich wiederholende Erinnerung ein, dass der Sleep-Timer noch läuft."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set the time interval for a descreet repeating reminder that the sleep timer is still running."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure el intervalo de tiempo para un recordatorio discreto y repetido de que el temporizador de apagado aún está funcionando."
+          }
+        }
+      }
+    },
+    "T1A-pW-dxq.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Round display times to nearest\"; ObjectID = \"T1A-pW-dxq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runden Sie die Anzeigezeiten auf den nächsten Wert"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Round display times to nearest"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redondear los tiempos de visualización al más cercano"
+          }
+        }
+      }
+    },
+    "TcS-tw-I6O.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Set the hour(0-12) that the Timeline uses as the start of your day. Consider setting this to just before baby wakes for the day to spot patterns easily.\"; ObjectID = \"TcS-tw-I6O\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Legen Sie die Stunde (0-12) fest, die die Zeitleiste als Beginn Ihres Tages verwendet. Erwägen Sie, dies auf kurz vor dem Aufwachen des Babys einzustellen, um Muster leichter erkennen zu können."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Set the hour(0-12) that the Timeline uses as the start of your day. Consider setting this to just before baby wakes for the day to spot patterns easily."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Establezca la hora (0-12) que utiliza la línea de tiempo como inicio de su día. Considere configurar esto justo antes de que el bebé se despierte durante el día para detectar patrones fácilmente."
+          }
+        }
+      }
+    },
+    "TEx-6n-j2S.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Measure weight in\"; ObjectID = \"TEx-6n-j2S\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gewicht messen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Measure weight in"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medir el peso en"
+          }
+        }
+      }
+    },
+    "TNf-0c-lBY.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Stop\"; ObjectID = \"TNf-0c-lBY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stoppen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stop"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener"
+          }
+        }
+      }
+    },
+    "UsX-AC-XSv.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Logs are being filtered - tap to remove filter\"; ObjectID = \"UsX-AC-XSv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle werden gefiltert – tippen Sie, um den Filter zu entfernen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logs are being filtered - tap to remove filter"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se están filtrando los registros: toque para eliminar el filtro"
+          }
+        }
+      }
+    },
+    "UuE-Rw-syA.title" : {
+      "comment" : "Class = \"UIViewController\"; title = \"Who Are We\"; ObjectID = \"UuE-Rw-syA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wer sind wir"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Who Are We"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quienes somos"
+          }
+        }
+      }
+    },
+    "VLT-5b-I1L.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Send Latest\"; ObjectID = \"VLT-5b-I1L\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neueste senden"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Send Latest"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar lo último"
+          }
+        }
+      }
+    },
+    "vP9-7o-PBV.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Timeline\"; ObjectID = \"vP9-7o-PBV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitleiste"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Timeline"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Línea de tiempo"
+          }
+        }
+      }
+    },
+    "vwv-WD-Z6p.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Show help messages\"; ObjectID = \"vwv-WD-Z6p\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hilfemeldungen anzeigen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Show help messages"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar mensajes de ayuda"
+          }
+        }
+      }
+    },
+    "vyI-nb-34M.title" : {
+      "comment" : "Class = \"UIBarButtonItem\"; title = \"Filter Logs\"; ObjectID = \"vyI-nb-34M\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Protokolle filtern"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Filter Logs"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filtrar registros"
+          }
+        }
+      }
+    },
+    "WI0-D8-Dnu.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Starting tab\"; ObjectID = \"WI0-D8-Dnu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Registerkarte „Starten“."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Starting tab"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pestaña de inicio"
+          }
+        }
+      }
+    },
+    "WKS-Ei-wfk.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Title\"; ObjectID = \"WKS-Ei-wfk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Titel"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Title"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título"
+          }
+        }
+      }
+    },
+    "XfA-3R-nkb.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"00:00:00\"; ObjectID = \"XfA-3R-nkb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00:00"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00:00"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "00:00:00"
+          }
+        }
+      }
+    },
+    "XTK-Jq-JSH.headerTitle" : {
+      "comment" : "Class = \"UITableViewSection\"; headerTitle = \"Baby's Settings\"; ObjectID = \"XTK-Jq-JSH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Babyeinstellungen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Baby's Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración del bebé"
+          }
+        }
+      }
+    },
+    "y9o-a4-Htn.text" : {
+      "comment" : "Class = \"UITextField\"; text = \"0\"; ObjectID = \"y9o-a4-Htn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "0"
+          }
+        }
+      }
+    },
+    "Ya9-UN-VCr.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Timeline\"; ObjectID = \"Ya9-UN-VCr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zeitleiste"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Timeline"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Línea de tiempo"
+          }
+        }
+      }
+    },
+    "YLV-Pc-0IE.segmentTitles[0]" : {
+      "comment" : "Class = \"UISegmentedControl\"; YLV-Pc-0IE.segmentTitles[0] = \"ml\"; ObjectID = \"YLV-Pc-0IE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ml"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ml"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ml"
+          }
+        }
+      }
+    },
+    "YLV-Pc-0IE.segmentTitles[1]" : {
+      "comment" : "Class = \"UISegmentedControl\"; YLV-Pc-0IE.segmentTitles[1] = \"ounces\"; ObjectID = \"YLV-Pc-0IE\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unzen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ounces"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "onzas"
+          }
+        }
+      }
+    },
+    "YUN-Dk-eRP.segmentTitles[0]" : {
+      "comment" : "Class = \"UISegmentedControl\"; YUN-Dk-eRP.segmentTitles[0] = \"lbs\"; ObjectID = \"YUN-Dk-eRP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pfund"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "lbs"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "libras"
+          }
+        }
+      }
+    },
+    "YUN-Dk-eRP.segmentTitles[1]" : {
+      "comment" : "Class = \"UISegmentedControl\"; YUN-Dk-eRP.segmentTitles[1] = \"kg\"; ObjectID = \"YUN-Dk-eRP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "kg"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "kg"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "kg"
+          }
+        }
+      }
+    },
+    "Zcq-Tf-c78.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"03:54:32\"; ObjectID = \"Zcq-Tf-c78\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "03:54:32"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "03:54:32"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "03:54:32"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
