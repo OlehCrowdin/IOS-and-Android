@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <UTF8/>
-  <string id=""/>
-  <string id=""/>
-  <string id=""/>
-  <string id=""/>
-  <string id=""/>
+  <string id="1">Cadena de origen #1</string>
+  <string id="2">Cadena de origen #2</string>
+  <string id="3">Cadena de origen #3</string>
+  <string id="4">Cadena de origen #4</string>
+  <string id="5">Cadena de origen #5</string>
 </data>
