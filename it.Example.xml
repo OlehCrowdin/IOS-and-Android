@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <UTF8/>
-  <string id=""/>
-  <string id=""/>
-  <string id=""/>
-  <string id=""/>
-  <string id=""/>
+  <string id="1">Stringa di origine #1</string>
+  <string id="2">Stringa sorgente #2</string>
+  <string id="3">Stringa sorgente #3</string>
+  <string id="4">Stringa sorgente #4</string>
+  <string id="5">Stringa sorgente #5</string>
 </data>
