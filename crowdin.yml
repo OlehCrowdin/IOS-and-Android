@@ -1,3 +1,3 @@
 files:
-  - source: /**/Example.xml
+  - source: /src/main/locales/*.json
     translation: /%original_path%/%two_letters_code%.%original_file_name%
