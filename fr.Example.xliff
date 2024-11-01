@@ -4,23 +4,85 @@
     <body>
       <trans-unit id="874396" maxwidth="20" size-unit="char">
         <source>text</source>
-        <target state="needs-translation">text</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texte</target>
         <note>Context</note>
       </trans-unit>
       <trans-unit id="874397">
         <source>text 1</source>
-        <target state="needs-translation">text 1</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texte 1</target>
         <note>Context 1</note>
       </trans-unit>
       <trans-unit id="874398">
         <source>text 2</source>
-        <target state="needs-translation">text 2</target>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texte 2</target>
         <context context-type="context">Context of the segment 2</context>
       </trans-unit>
       <trans-unit id="874399" translate="no">
         <source>text 3</source>
         <target state="needs-translation">text 3</target>
         <note>Context 3</note>
+      </trans-unit>
+      <trans-unit id="select:key_13">
+        <source>3
+minets</source>
+        <target state="needs-translation">3
+minets</target>
+        <note>3_min</note>
+      </trans-unit>
+      <trans-unit id="select:free_design_select_select_free_design_select_free_design_hotel_tiquetonne">
+        <source>Hotel Tiquetonne</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Hotel Tiquetonne</target>
+        <note>hotel_tiquetonne</note>
+      </trans-unit>
+      <trans-unit id="select:free_design_select_select_free_design_select_key_1">
+        <source>Location #1 #!text</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Lieu #1 #!text</target>
+        <note>location_1_text</note>
+      </trans-unit>
+      <trans-unit id="frame_8:free_design_frame_8_frame_8_free_design_frame_8_free_design_comfor">
+        <source>Comfort</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Confort</target>
+        <note>comfort</note>
+      </trans-unit>
+      <trans-unit id="frame_18:free_design_frame_8_8_50">
+        <source>$8.50</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">$8.50</target>
+        <note>8_50</note>
+      </trans-unit>
+      <trans-unit id="info:free_design_info_info_free_design_info_free_design_3_mi">
+        <source>3 min</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">3min</target>
+        <note>3_min</note>
+      </trans-unit>
+      <trans-unit id="frame_8:free_design_frame_8_frame_8_free_design_frame_8_free_design_comfort">
+        <source>Premium</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Premium</target>
+        <note>premium</note>
+      </trans-unit>
+      <trans-unit id="info:free_design_info_info_free_design_info_free_design_3_min">
+        <source>4 min</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">4min</target>
+        <note>4_min</note>
+      </trans-unit>
+      <trans-unit id="info:free_design_info_4">
+        <source>4</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">4</target>
+        <note>4</note>
+      </trans-unit>
+      <trans-unit id="payment:free_design_payment_0872">
+        <source>**** 0872</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">**** 0872</target>
+        <note>0872</note>
+      </trans-unit>
+      <trans-unit id="payment:free_design_payment_payment_free_design_payment_free_design_change">
+        <source>Credit card</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Carte de crédit</target>
+        <note>credit_card</note>
+      </trans-unit>
+      <trans-unit id="select:free_design_select_select_free_design_select_free_design_order_now">
+        <source>Order taxi</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Commander un taxi</target>
+        <note>order_taxi</note>
       </trans-unit>
     </body>
   </file>
