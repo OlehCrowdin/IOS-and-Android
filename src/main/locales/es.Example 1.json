@@ -1,7 +1,16 @@
 {
-    "Key0": "<strong>Source String 0</strong>",
-    "Key6": "Source String 2",
-    "Key7": "Source String 4",
-    "Key8": "Source String 5",
-    "Key9": "Source String 3"
+    "Key0": "<strong>Cadena de origen 0</strong>",
+    "Key6": "Cadena de origen 2",
+    "Key7": "Cadena de origen 4",
+    "Key8": "Cadena de origen 5",
+    "Key9": "Cadena de origen 3",
+    "Free_design:Select:Free_design_select_free_design_select_free_design_seledadct_select_key_13": "3\nmin",
+    "Free_design:Select:Free_design_select_free_design_select_free_design_select_select_free_design_select_select_free_design_select_free_design_hotel_tiquetonne": "Hotel Tiquetonne",
+    "Free_design:Select:Free_design_select_free_design_select_free_design_select_select_free_design_select_select_free_design_select_key_1": "Ubicación #1 #!text",
+    "Free_design:Frame_8:Free_design_frame_8_free_design_frame_8_free_design_frame_8_frame_8_free_design_frame_8_frame_8_free_design_frame_8_free_design_comfor": "Confort",
+    "Free_design:Frame_8:Free_design_frame_8_free_design_frame_8_frame_18_free_design_frame_8_8_50": "$8.50",
+    "Free_design:Info:Free_design_info_free_design_info_free_design_info_info_free_design_info_info_free_design_info_free_design_3_mi": "3 min",
+    "Free_design:Frame_8:Free_design_frame_8_free_design_frame_8_free_design_frame_8_frame_8_free_design_frame_8_frame_8_free_design_frame_8_free_design_comfort": "Premium",
+    "Free_design:Info:Free_design_info_free_design_info_free_design_info_info_free_design_info_info_free_design_info_free_design_3_min": "4 min",
+    "Free_design:Payment:Free_design_payment_free_design_payment_free_design_payment_payment_free_design_payment_payment_free_design_payment_free_design_change": "Tarjeta de crédito"
 }
