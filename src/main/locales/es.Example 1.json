@@ -1,7 +1,8 @@
 {
-    "Key0": "<strong>Source String 0</strong>",
-    "Key6": "Source String 2",
-    "Key7": "Source String 4",
-    "Key8": "Source String 5",
-    "Key9": "Source String 3"
+    "Key0": "<strong>Cadena de origen 0</strong>",
+    "Key6": "Cadena de origen 2",
+    "Key7": "Cadena de origen 4",
+    "Key8": "Cadena de origen 5",
+    "Key9": "Cadena de origen 3",
+    "Textstringtext": "Text {string} text"
 }
