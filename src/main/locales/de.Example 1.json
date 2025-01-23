@@ -1,7 +1,8 @@
 {
-    "Key0": "<strong>Source String 0</strong>",
-    "Key6": "changes",
+    "Key0": "<strong>Quellzeichenkette 0</strong>",
+    "Key6": "The Source String 2",
     "Key7": "Ein Source",
-    "Key8": "Source String 5",
-    "Key9": "Source String 3"
+    "Key8": "Quellzeichenkette 5",
+    "Key9": "Quellzeichenkette 3",
+    "hello-world": "Hallo Welt"
 }
