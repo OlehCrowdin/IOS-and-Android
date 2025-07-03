@@ -1,9 +1,9 @@
 {
-    "Key0": "<strong>Cadena de Origen 0</strong>",
     "Key6": "Source String 2",
     "Key7": "Cadena de Origen 4 ad",
     "Key8": "Source String 5",
     "Key9": "Cadena de Origen 3",
     "teststring": "Grammarly me permite enviar esas comunicaciones y sentirme seguro de que estoy dando lo mejor de mí. Grammarly es como un pequeño superpoder, especialmente cuando necesito estar al 110%",
-    "btn": "Guardar"
+    "btn": "Guardar",
+    "newkey!": "<strong>Cadena de Origen 0</strong>"
 }
