@@ -1,9 +1,28 @@
 {
-    "Key0": "<strong>Source String 0</strong>",
-    "Key6": "Source String 2",
-    "Key7": "Source String 4",
-    "Key8": "Source String 5",
-    "Key9": "Source String 3",
-    "teststring": "Grammarly allows me to get those communications out and feel confident that I’m putting my best foot forward. Grammarly is like a little superpower, especially when I need to be at 110%",
-    "btn": "Save"
+    "Key6": "Chaîne source 2",
+    "Key7": "Change. ",
+    "Key8": "Chaîne source 5 add text ",
+    "Key9": "Chaîne source 3",
+    "teststring": "Grammarly me permet de rédiger ces communications et d'être certain de donner le meilleur de moi-même. Grammarly est comme un petit super-pouvoir, surtout quand j'ai besoin d'être à 110 %",
+    "btn": "Enregistrer",
+    "string": "{chaîne}",
+    "test": "Distance",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_4_8_km": "4.8 km",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_arrival": "Arrivée",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_in_15_min": "dans 15 minutes",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_price": "Prix",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_source_string_1": "Chaîne source n° 1",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_test": "{string} texte texte nouveau mis à jour",
+    "Free_design__On_the_street__Free_design_on_the_street_free_design_on_the_street_on_the_street_test_on_the_street_free_design": "2 min à droite",
+    "Free_design__On_the_street__Free_design_on_the_street_free_design_on_the_street_on_the_street_6_rue_tiquetonne_on_the_street_free_design": "6 Rue Tiquetonne add",
+    "Free_design__On_the_street__Free_design_on_the_street_free_design_on_the_street_on_the_street_angelina_paris_cafe_on_the_street_free_design": "Café Angelina Paris",
+    "Free_design__On_the_street__Free_design_on_the_street_free_design_on_the_street_on_the_street_address_on_the_street_free_design": "Adresses text",
+    "Free_design__Start__Free_design_start_free_design_start_free_design_start_free_design_start_free_design_start_start_free_design_start_open_application_start_free_design": "Ouvrir l’application! ",
+    "Free_design__Start__Free_design_start_free_design_start_free_design_start_free_design_start_free_design_start_start_free_design_start_create_new_account_start_free_design": "Paste the text",
+    "Free_design__Start__Free_design_start_free_design_start_free_design_start_free_design_start_free_design_start_start_key_9_start_free_design": "Bienvenue dans Drive !",
+    "Free_design__Start__Free_design_start_free_design_start_free_design_start_free_design_start_free_design_start_start_free_design_start_comfortable_rides_around_the_city_start_free_design": "Des trajets confortables en ville",
+    "Free_design__On_the_way__Identifier_1": "Texte à traduire add",
+    "Key0": {
+    "test": "<strong>Source String 0</strong>"
+    }
 }
