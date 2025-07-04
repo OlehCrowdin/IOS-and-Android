@@ -1,9 +1,28 @@
 {
-    "Key0": "<strong>Quellzeichenkette 0</strong>",
     "Key6": "Quellzeichenkette 2",
     "Key7": "Quellzeichenkette 4",
     "Key8": "Quellzeichenkette 5",
     "Key9": "Quellzeichenkette 3",
     "teststring": "Grammarly erlaubt es mir, diese Mitteilungen herauszuholen und zuversichtlich zu sein, dass ich meinen besten Fuß nach vorne stehe. Grammarly ist wie ein wenig Supermacht, besonders wenn ich bei 110% sein muss",
-    "btn": "Save"
+    "btn": "Speichern",
+    "string": "{string}",
+    "test": "Distance",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_4_8_km": "4.8 km",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_arrival": "Arrival",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_in_15_min": "in 15 min",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_price": "Price",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_source_string_1": "Quellzeichenkette 1",
+    "Free_design__On_the_way_2__Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_test": "{string} text text new updated",
+    "Free_design__On_the_street__Free_design_on_the_street_free_design_on_the_street_on_the_street_test_on_the_street_free_design": "2 min right",
+    "Free_design__On_the_street__Free_design_on_the_street_free_design_on_the_street_on_the_street_6_rue_tiquetonne_on_the_street_free_design": "6 Rue Tiquetonne",
+    "Free_design__On_the_street__Free_design_on_the_street_free_design_on_the_street_on_the_street_angelina_paris_cafe_on_the_street_free_design": "Angelina Paris Cafe",
+    "Free_design__On_the_street__Free_design_on_the_street_free_design_on_the_street_on_the_street_address_on_the_street_free_design": "Address",
+    "Free_design__Start__Free_design_start_free_design_start_free_design_start_free_design_start_free_design_start_start_free_design_start_open_application_start_free_design": "Open application! ",
+    "Free_design__Start__Free_design_start_free_design_start_free_design_start_free_design_start_free_design_start_start_free_design_start_create_new_account_start_free_design": "Create new account",
+    "Free_design__Start__Free_design_start_free_design_start_free_design_start_free_design_start_free_design_start_start_key_9_start_free_design": "Welcome to Drive!",
+    "Free_design__Start__Free_design_start_free_design_start_free_design_start_free_design_start_free_design_start_start_free_design_start_comfortable_rides_around_the_city_start_free_design": "Comfortable rides around the city",
+    "Free_design__On_the_way__Identifier_1": "String für die Übersetzung add addd",
+    "Key0": {
+    "test": "<strong>Quellzeichenkette 0</strong>"
+    }
 }
