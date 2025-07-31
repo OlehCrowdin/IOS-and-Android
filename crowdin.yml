@@ -1,5 +1,3 @@
 files:
   - source: /src/**/Example 1.json
-    translation: /src/main/locales/%two_letters_code%/%file_name%.json
-bundles:
-  - 6
+    translation: /src/main/locales/%two_letters_code%.%file_name%.json
