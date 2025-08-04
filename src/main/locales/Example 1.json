@@ -1,15 +1,9 @@
 {
-    "Key0": "<strong>Source String 0</strong> {string}",
+    "Key0": "<strong>Source String 0</strong>",
     "Key6": "Source String 2",
     "Key7": "Source String 4",
     "Key8": "Source String 5",
     "Key9": "Source String 3",
     "teststring": "Grammarly allows me to get those communications out and feel confident that I’m putting my best foot forward. Grammarly is like a little superpower, especially when I need to be at 110%",
-    "btn": "Save",
-    "free_design": {
-    "free_design_free_design_free_design_on_the_street_free_design_on_the_street_free_design_on_the_street_on_the_street_test_on_the_street_free_design": "2 min right",
-    "free_design_free_design_free_design_on_the_street_free_design_on_the_street_free_design_on_the_street_on_the_street_6_rue_tiquetonne_on_the_street_free_design": "6 Rue Tiquetonne",
-    "free_design_free_design_free_design_on_the_street_free_design_on_the_street_free_design_on_the_street_on_the_street_angelina_paris_cafe_on_the_street_free_design": "Angelina Paris Cafe",
-    "free_design_free_design_free_design_on_the_street_free_design_on_the_street_free_design_on_the_street_on_the_street_address_on_the_street_free_design": "Address"
-    }
+    "btn": "Save"
 }
