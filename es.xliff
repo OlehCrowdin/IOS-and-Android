@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="36" original="/Core/Example.xliff" source-language="en" target-language="es-ES" datatype="plaintext" project-id="830162" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="34" resname="874396" size-unit="char" maxwidth="20">
+        <source>text</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texto</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874396
+Context</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="36" resname="874397">
+        <source>text 1</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texto 1</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874397
+Context 1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="38" resname="874398">
+        <source>text 2</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">texto 2</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874398
+Context of the segment 2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40" resname="874399" translate="no">
+        <source>text 3</source>
+        <target>text 3</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874399
+Context 3</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="38" original="/Client 1/Example.xliff" source-language="en" target-language="es-ES" datatype="plaintext" project-id="830162" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="42" resname="874396" size-unit="char" maxwidth="20">
+        <source>Sentece</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Cita</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874396
+Context</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="44" resname="874397">
+        <source>Sentece 1</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Frase 1</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874397
+Context 1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46" resname="874398">
+        <source>Sentece 2</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Frase 2</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874398
+Context of the segment 2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="48" resname="874399" translate="no">
+        <source>Sentece 3</source>
+        <target>Sentece 3</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874399
+Context 3</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+  <file id="40" original="/Example.xliff" source-language="en" target-language="es-ES" datatype="plaintext" project-id="830162" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="50" resname="874396" size-unit="char" maxwidth="20" translate="no">
+        <source>Sentece</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Cita</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874396
+Context</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="52" resname="874397" translate="no">
+        <source>Sentece 1</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Frase 1</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874397
+Context 1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="54" resname="874398" translate="no">
+        <source>Sentece 2</source>
+        <target state="needs-review-translation" state-qualifier="leveraged-mt">Frase 2</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874398
+Context of the segment 2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="56" resname="874399" translate="no">
+        <source>Sentece 3</source>
+        <target>Sentece 3</target>
+        <context-group purpose="information">
+          <context context-type="source">/Example (AndroidXML).xml
+874399
+Context 3</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
