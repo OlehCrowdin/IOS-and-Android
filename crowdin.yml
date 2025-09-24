@@ -1,5 +1,5 @@
 files:
-  - source: /src/**/Example 1.json
-    translation: /src/main/locales/%two_letters_code%.%file_name%.json
-bundles:
-  - 2
+  - source: '*.resx'
+    translation: /src/main/locales/%two_letters_code%.%file_name%.resx
+  - source: icu.json
+    translation: /%two_letters_code%.%file_name%.json
