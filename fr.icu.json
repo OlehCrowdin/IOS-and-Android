@@ -1,7 +1,7 @@
 {
-    "Key1": "I have {numCats, number} cats.",
-    "Key2": "Almost {pctBlack, number, percent} of them are black.",
-    "key4": "Coupon expires at {expires, time, short}.",
-    "key5": "{gender, select, male {He} female {She} other {They} } will respond shortly.",
-    "key6": "Cart: {itemCount} {itemCount, plural, one {item} other {items} }"
+    "Key1": "Je have {numCats, number} chats.",
+    "Key2": "Presque {pctBlack, number, percent} d'entre eux sont noirs.",
+    "key4": "Le bon de réduction expire à {expires, time, short}.",
+    "key5": "{gender, select, male {Il} female {Elle} other {Iel} } répondra bientôt.",
+    "key6": "Panier : {itemCount} {itemCount, plural, one {article} other {articles} }"
 }
