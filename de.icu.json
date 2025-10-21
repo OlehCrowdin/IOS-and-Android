@@ -1,0 +1,7 @@
+{
+    "Key1": "Ich have {numCats, number} Katzen.",
+    "Key2": "Ein Almost {pctBlack, number, percent}asf  ihnen sind schwarz.",
+    "key4": "Gutschein läuft ab um {expires, time, short}",
+    "key5": "{gender, select, male {Er} female {Sie} other {Sie} } wird in Kürze antworten.",
+    "key6": "Warenkorb: {itemCount} {itemCount, plural, one {Item} other {Items} }"
+}
