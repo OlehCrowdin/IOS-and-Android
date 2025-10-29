@@ -26,14 +26,14 @@ Verwalten Sie alle Ihre Logins und Passwörter in einem sicheren Tresor
 
 Füllen Sie Ihre Anmeldedaten schnell automatisch in jede Website ein, die Sie besuchen
 
-# Screenshot - Menu
+# Screenshot - Menü
 
-Your vault is also conveniently accessible from the right-click context menu
+Ihr Tresor ist auch bequem über das Kontextmenü mit Rechtsklick erreichbar
 
-# Screenshot - Password
+# Screenshot - Passwort
 
-Automatically generate strong, random, and secure passwords
+Automatisch starke, zufällige und sichere Passwörter generieren
 
-# Screenshot - Edit
+# Screenshot - Bearbeiten
 
-Your information is managed securely using AES-256 bit encryption
+Ihre Informationen werden sicher mit AES-256-Bit-Verschlüsselung verwaltet
