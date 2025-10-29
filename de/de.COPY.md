@@ -8,32 +8,32 @@ Eine kleine Zusammenfassung
 
 # Beschreibung
 
-Short description here
+Kurze Beschreibung hier
 
 # Asset - Tile
 
-A secure and free password manager for all of your devices
+Ein sicherer und kostenloser Passwortmanager für alle Ihre Geräte
 
 # Screenshot - Sync
 
-Sync and access your vault from multiple devices
+Synchronisieren und Zugriff auf Ihren Tresor von mehreren Geräten
 
-# Screenshot - Vault
+# Screenshot - Tresor
 
-Manage all your logins and passwords from a secure vault
+Verwalten Sie alle Ihre Logins und Passwörter in einem sicheren Tresor
 
 # Screenshot - Autofill
 
-Quickly auto-fill your login credentials into any website that you visit
+Füllen Sie Ihre Anmeldedaten schnell automatisch in jede Website ein, die Sie besuchen
 
-# Screenshot - Menu
+# Screenshot - Menü
 
-Your vault is also conveniently accessible from the right-click context menu
+Ihr Tresor ist auch bequem über das Kontextmenü mit Rechtsklick erreichbar
 
-# Screenshot - Password
+# Screenshot - Passwort
 
-Automatically generate strong, random, and secure passwords
+Automatisch starke, zufällige und sichere Passwörter generieren
 
-# Screenshot - Edit
+# Screenshot - Bearbeiten
 
-Your information is managed securely using AES-256 bit encryption
+Ihre Informationen werden sicher mit AES-256-Bit-Verschlüsselung verwaltet
