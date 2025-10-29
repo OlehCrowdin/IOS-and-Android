@@ -1,39 +1,39 @@
-# Name
+# Nom
 
-Some Name here
+Un nom ici
 
-# Summary
+# À savoir
 
-A small summary
+Un petit résumé
 
-# Description
+# Libellé
 
-Short description here
+Courte description ici
 
 # Asset - Tile
 
-A secure and free password manager for all of your devices
+Un gestionnaire de mots de passe sécurisé et gratuit pour tous vos appareils
 
-# Screenshot - Sync
+# Capture d'écran - Synchronisation
 
-Sync and access your vault from multiple devices
+Synchroniser et accéder à votre coffre à partir de plusieurs appareils
 
-# Screenshot - Vault
+# Capture d'écran - Coffre-fort
 
-Manage all your logins and passwords from a secure vault
+Gérer tous vos identifiants et mots de passe depuis un coffre sécurisé
 
-# Screenshot - Autofill
+# Capture d'écran - Remplissage automatique
 
-Quickly auto-fill your login credentials into any website that you visit
+Remplissez rapidement automatiquement vos identifiants de connexion sur n'importe quel site Web que vous visitez
 
-# Screenshot - Menu
+# Capture d'écran - Menu
 
-Your vault is also conveniently accessible from the right-click context menu
+Votre coffre est également facilement accessible à partir du menu contextuel du clic droit
 
-# Screenshot - Password
+# Capture d'écran - Mot de passe
 
-Automatically generate strong, random, and secure passwords
+Générer automatiquement des mots de passe forts, aléatoires et sécurisés
 
-# Screenshot - Edit
+# Capture d'écran - Modifier
 
-Your information is managed securely using AES-256 bit encryption
+Vos informations sont gérées de manière sécurisée en utilisant le cryptage AES-256 bit
