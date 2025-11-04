@@ -1,0 +1,19 @@
+---
+# An employee record
+name: Martin D'vloper
+job: Développeur
+skill: Élite
+employed: True
+foods:
+    - Pomme
+    - Orange
+    - Fraise
+    - Mango
+languages:
+    perl: Elite
+    python: Elite
+    pascal: Lame
+education: |
+  4 GCSEs
+  3 A-Levels
+  BSc in the Internet of Things
