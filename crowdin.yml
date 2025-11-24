@@ -1,5 +1,3 @@
 files:
-  - source: /src/**/Example (iOS Strings).strings
-    translation: /src/**/%two_letters_code%.%file_name%.strings
-  - source: /src/**/Example (AndroidXML).xml
-    translation: /src/**/%two_letters_code%/%file_name%.xml
+  - source: /src/**/Example 1.json
+    translation: /src/**/%two_letters_code%/%file_name%.json
