@@ -5,16 +5,5 @@
     "Key8": "Quellzeichenkette 5",
     "Key9": "Quellzeichenkette 3",
     "teststring": "Grammarly erlaubt es mir, diese Mitteilungen herauszuholen und zuversichtlich zu sein, dass ich meinen besten Fuß nach vorne stehe. Grammarly ist wie ein wenig Supermacht, besonders wenn ich bei 110% sein muss",
-    "btn": "Speichern",
-    "Free_design": {
-    "1:206": "05:22",
-    "1:213": "Distanz",
-    "1:214": "4.8 km",
-    "1:216": "Ankunft",
-    "1:217": "in 15 Minuten",
-    "1:219": "Preis",
-    "1:221": "$8.50",
-    "I2:67;1:24": "Quellzeichenkette 2",
-    "I2:65;1:18": "{string}Ein Text Ein Text new updated"
-    }
+    "btn": "Speichern"
 }
