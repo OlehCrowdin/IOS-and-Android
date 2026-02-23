@@ -1,9 +1,10 @@
 {
-    "Key0": "<strong>Source String 0</strong>",
-    "Key6": "Source String 2",
-    "Key7": "Source String 4",
-    "Key8": "Source String 5",
-    "Key9": "Source String 3",
-    "teststring": "Grammarly allows me to get those communications out and feel confident that I’m putting my best foot forward. Grammarly is like a little superpower, especially when I need to be at 110%",
-    "btn": "Save"
+    "Key0": "<strong>Brontest 0</strong> {NAME}",
+    "Key6": "Brontest 2",
+    "Key7": "Brontest 4",
+    "Key8": "Brontest 5",
+    "Key9": "Brontest 3",
+    "teststring": "Met Grammarly kan ik die berichten versturen en me zeker voelen dat ik mijn beste beentje voorzet. Grammarly is als een kleine superkracht, vooral als ik voor 110% moet presteren",
+    "btn": "Opslaan",
+    "test": "Crowdin is company name"
 }
