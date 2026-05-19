@@ -1,15 +1,9 @@
 {
-    "Key0": "<strong>Quellzeichenkette 0</strong>",
-    "Key6": "Quellzeichenkette 2",
-    "Key7": "Quellzeichenkette 4",
-    "Key8": "Quellzeichenkette 5",
-    "Key9": "Quellzeichenkette 3",
-    "teststring": "Grammarly erlaubt es mir, diese Mitteilungen herauszuholen und zuversichtlich zu sein, dass ich meinen besten Fuß nach vorne stehe. Grammarly ist wie ein wenig Supermacht, besonders wenn ich bei 110% sein muss",
-    "Free_design:On_the_way:Free_design_on_the_way_free_design_on_the_way_free_design_on_the_way_free_design_start_free_design_start_free_design_start_874396": "Adresse",
-    "Free_design:On_the_way:Key_1": "I have {numCats, number} cats.",
-    "Free_design:On_the_way:Free_design_on_the_way_free_design_on_the_way_free_design_on_the_way_free_design_on_the_way_free_design_on_the_way_free_design_on_the_way_free_design_on_the_way_free_design_on_the_way_on_the_way_on_the_way_on_the_way_free_design_on_the_way_free_design_on_the_way_toyota_rav_4_on_the_way_free_design_on_the_way_free_design": "Toyota RAV4",
-    "Free_design:Driver:Free_design_driver_free_design_driver_free_design_driver_free_design_on_the_way_free_design_driver_free_design_driver_free_design_driver_free_design_driver_driver_driver_driver_free_design_driver_free_design_driver_bryan_driver_free_design_driver_free_design": "Bryan",
-    "Free_design:On_the_way_2:Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_distance": "Distance",
-    "Free_design:On_the_way_2:Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_arrival": "Arrival",
-    "Free_design:On_the_way_2:Free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_on_the_way_2_on_the_way_2_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_free_design_on_the_way_2_in_15_min": "in 15 min"
+    "Key0": "<strong>Source String 0</strong>",
+    "Key6": "Source String 2",
+    "Key7": "Source String 4",
+    "Key8": "Source String 5",
+    "Key9": "Source String 3",
+    "teststring": "Grammarly allows me to get those communications out and feel confident that I’m putting my best foot forward. Grammarly is like a little superpower, especially when I need to be at 110%",
+    "btn": "Save"
 }
