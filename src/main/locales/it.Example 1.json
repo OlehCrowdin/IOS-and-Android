@@ -5,5 +5,6 @@
     "Key8": "Stringa sorgente 5",
     "Key9": "Stringa sorgente 3",
     "teststring": "Grammarly mi permette di inviare queste comunicazioni e di sentirmi sicuro del fatto che sto dando il meglio di me. Grammarly è come un piccolo superpotere, soprattutto quando devo essere al 110%",
-    "btn": "Salva"
+    "btn": "Salva",
+    "new-sentece-to-translate": "Nuova frase da tradurre {NAME}"
 }
